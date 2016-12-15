@@ -4,11 +4,16 @@ setwd("/Users/edie/Box Sync/GitThings/philippineCrime")
 
 ## RAPE
 rape = read.csv("datasets/top_15_highest number_of_rape_cases nationwide.csv")
-rape[which(rape[,3]==max(rape[,3])),2]
+rape[which(rape[,3]==max(rape[,3])),2] # Quezon City
+
+
 
 ## CRIMES
 crimes = read.csv("datasets/top_15_highest_number_of_index_crimes_from_2010-2015.csv")
 names(crimes)
+
+cities = unlist(crimes[,2]) # vector of cities
+
 
 # Most murders
 crimes[which(crimes[,3]==max(crimes[,3])),2] # Davao City
@@ -16,7 +21,7 @@ crimes[which(crimes[,3]==max(crimes[,3])),2] # Davao City
 # Most homicides
 crimes[which(crimes[,4]==max(crimes[,4])),2] # Quezon City
 
-# Most roberry
+# Most robbery
 crimes[which(crimes[,5]==max(crimes[,5])),2] # Quezon City
 
 # Most theft

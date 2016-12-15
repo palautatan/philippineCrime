@@ -1,0 +1,41 @@
+population2015.xlsx edits --> population2015.csv
+
+population2015.csv
+	- removed notes on bottom of excel
+
+via Amiel Leaño Atanacio:
+	NCR is considered its own province
+	Regions normally go by numbers
+	Regions are not governed separately.
+	
+Why must Region IX – Zamboanga Peninsula specify that the City of Isabela is included?
+	Excel row 1252
+	1519: Basilan excludes Isabela City
+	
+	
+Notes from the bottom of the excel file:		
+- Land area was based on cadastral survey (certified and provided to the Department of Budget and Management) from the Land Management Bureau, Department of Environment and Natural Resources.	
+		
+- Estimated land area (certified and provided to the Department of Budget and Management) from the Land Management Bureau, Department of Environment and Natural Resources.	
+		
+- a1/ The area of the province is based on the cadastral and estimated land areas (certified and provided to the Department of Budget and Management) from the Land Management Bureau, Department of Environment and Natural Resources.			
+
+- a2/ Due to unfinished cadastral survey, details do not add up to the national total.			
+
+- a3/ Due to rounding off, the provincial totals may not be equal to the sum of the individual figures.		
+	
+b1/ Excludes 2,134 Filipinos in Philippine embassies, consulates, and missions abroad.			
+1 Converted into a city under Republic Act No. 10169; ratified on August 11, 2012.			
+2 Converted into a city under Republic Act No. 10164; ratified on July 21, 2012.			
+3 Converted into a city under Republic Act No. 10160; ratified on June 23, 2012.			
+4 Converted into a city under Republic Act No. 10675; ratified on December 12, 2015.			
+5 Converted into a city under Republic Act No. 10161; ratified on June 30, 2012.			
+6 Converted into a city under Republic Act No. 10163; ratified on August 4, 2012.			
+7 Converted into a city under Republic Act No. 10420; ratified on December 28, 2013.			
+8 Created into a region under Executive Order No. 183.			
+9 Transferred province under Executive Order No. 183; taken from Region VI - Western Visayas.			
+10 Transferred highly urbanized city under Executive Order No. 183; taken from Region VI - Western Visayas.			
+11 Transferred province under Executive Order No. 183; taken from Region VII -Central Visayas.			
+12 Created into a province under Republic Act No. 10360; ratified on October 28, 2013; taken from the province of Davao del Sur.			
+			
+Sources: Philippine Statistics Authority, 2000 and 2010 Census of Population and Housing, and 2015 Census of Population and Land Management Bureau, Department of Environment and Natural Resources			
