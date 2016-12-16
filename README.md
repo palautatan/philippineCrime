@@ -8,3 +8,11 @@ My parents came to the United States from the Philippines. Plenty of students li
 What I mean to understand through visualizing crime in the Philippines is the Philippines itself. This is not to say the Philippines is a crime-stricken country with no other depth. I just think this will help me understand the land mass of islands on the level that is crime. Hopefully, I can compare some areas I learn about with areas that I've been in like my hometowns of San Francisco, Daly City, and Davis, CA.
 
 This comparison will hopefully lead to more interesting discoveries, given that data on the Philippines is available. However, after simply searching the web, I'm sure Philippine data is not ample.
+
+# Scripts
+plottingPhilippines.R: Using gadm to visualize information on the Philippines map using base R plot()
+
+cleaningPopData.R: History of what I did to make sure my .csv was filled out properly (I reformatted the .xlsx by hand)
+understandingPopData.R: Exploring the population.csv
+
+understandingCrimeData.R: Explorting the crime data .csv's
