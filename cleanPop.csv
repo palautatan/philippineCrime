@@ -1,0 +1,1636 @@
+"","region","province","city","density","pop","area"
+"1","National Capital Region","N/A","City of Manila",42628,1780148,1780148
+"2","National Capital Region","N/A","Quezon City",17099,2936116,2936116
+"3","National Capital Region","N/A","Caloocan City",28387,1583978,1583978
+"4","National Capital Region","N/A","Pasay City",23038,416522,416522
+"5","National Capital Region","N/A","City of Las PiÐas",17878,588894,588894
+"6","National Capital Region","N/A","City of Makati",27010,582602,582602
+"7","National Capital Region","N/A","City of Malabon",23267,365525,365525
+"8","National Capital Region","N/A","City of Mandaluyong",41580,386276,386276
+"9","National Capital Region","N/A","City of Marikina",19479,450741,450741
+"10","National Capital Region","N/A","City of Muntinlupa",12692,504509,504509
+"11","National Capital Region","N/A","City of Navotas",22845,249463,249463
+"12","National Capital Region","N/A","City of ParaÐaque",13757,665822,665822
+"13","National Capital Region","N/A","City of Pasig",15586,755300,755300
+"14","National Capital Region","N/A","City of San Juan",21102,122180,122180
+"15","National Capital Region","N/A","Taguig City",17804,804915,804915
+"16","National Capital Region","N/A","City of Valenzuela",13687,620422,620422
+"17","National Capital Region","N/A","Municipality of Pateros",6138,63840,63840
+"18","Cordillera Administrative Region","Abra","Bangued (Capital)",353,48163,48163
+"19","Cordillera Administrative Region","Abra","Boliney",17,3573,3573
+"20","Cordillera Administrative Region","Abra","Bucay",168,17115,17115
+"21","Cordillera Administrative Region","Abra","Bucloc",39,2501,2501
+"22","Cordillera Administrative Region","Abra","Daguioman",18,2088,2088
+"23","Cordillera Administrative Region","Abra","Danglas",17,4192,4192
+"24","Cordillera Administrative Region","Abra","Dolores",238,11315,11315
+"25","Cordillera Administrative Region","Abra","La Paz",300,15437,15437
+"26","Cordillera Administrative Region","Abra","Lacub",14,3403,3403
+"27","Cordillera Administrative Region","Abra","Lagangilang",115,14255,14255
+"28","Cordillera Administrative Region","Abra","Lagayan",21,4499,4499
+"29","Cordillera Administrative Region","Abra","Langiden",28,3198,3198
+"30","Cordillera Administrative Region","Abra","Licuan-Baay",18,4689,4689
+"31","Cordillera Administrative Region","Abra","Luba",43,6339,6339
+"32","Cordillera Administrative Region","Abra","Malibcong",15,3428,3428
+"33","Cordillera Administrative Region","Abra","Manabo",133,10761,10761
+"34","Cordillera Administrative Region","Abra","PeÐarrubia",170,6640,6640
+"35","Cordillera Administrative Region","Abra","Pidigan",248,12185,12185
+"36","Cordillera Administrative Region","Abra","Pilar",155,10223,10223
+"37","Cordillera Administrative Region","Abra","Sallapadan",51,6622,6622
+"38","Cordillera Administrative Region","Abra","San Isidro",95,4574,4574
+"39","Cordillera Administrative Region","Abra","San Juan",154,9867,9867
+"40","Cordillera Administrative Region","Abra","San Quintin",82,5438,5438
+"41","Cordillera Administrative Region","Abra","Tayum",260,14467,14467
+"42","Cordillera Administrative Region","Abra","Tineg",6,5097,5097
+"43","Cordillera Administrative Region","Abra","Tubo",12,5699,5699
+"44","Cordillera Administrative Region","Abra","Villaviciosa",52,5392,5392
+"45","Cordillera Administrative Region","Apayao","Calanasan",10,12604,12604
+"46","Cordillera Administrative Region","Apayao","Conner",29,26051,26051
+"47","Cordillera Administrative Region","Apayao","Flora",42,17391,17391
+"48","Cordillera Administrative Region","Apayao","Kabugao (Capital)",17,15537,15537
+"49","Cordillera Administrative Region","Apayao","Luna",46,19063,19063
+"50","Cordillera Administrative Region","Apayao","Pudtol",37,14925,14925
+"51","Cordillera Administrative Region","Apayao","Santa Marcela",69,13613,13613
+"52","Cordillera Administrative Region","Benguet","Atok",104,19668,19668
+"53","Cordillera Administrative Region","Benguet","Bakun",54,15357,15357
+"54","Cordillera Administrative Region","Benguet","Bokod",50,13756,13756
+"55","Cordillera Administrative Region","Benguet","Buguias",248,43627,43627
+"56","Cordillera Administrative Region","Benguet","Itogon",133,59820,59820
+"57","Cordillera Administrative Region","Benguet","Kabayan",63,15260,15260
+"58","Cordillera Administrative Region","Benguet","Kapangan",118,19361,19361
+"59","Cordillera Administrative Region","Benguet","Kibungan",68,17292,17292
+"60","Cordillera Administrative Region","Benguet","La Trinidad (Capital)",1844,129133,129133
+"61","Cordillera Administrative Region","Benguet","Mankayan",276,35953,35953
+"62","Cordillera Administrative Region","Benguet","Sablan",108,11457,11457
+"63","Cordillera Administrative Region","Benguet","Tuba",161,47648,47648
+"64","Cordillera Administrative Region","Benguet","Tublay",174,17892,17892
+"65","Cordillera Administrative Region","Benguet","Baguio City",6004,345366,345366
+"66","Cordillera Administrative Region","Ifugao","Aguinaldo",36,19408,19408
+"67","Cordillera Administrative Region","Ifugao","Alfonso Lista",93,32119,32119
+"68","Cordillera Administrative Region","Ifugao","Asipulo",83,15261,15261
+"69","Cordillera Administrative Region","Ifugao","Banaue",114,21837,21837
+"70","Cordillera Administrative Region","Ifugao","Hingyon",149,9227,9227
+"71","Cordillera Administrative Region","Ifugao","Hungduan",37,9400,9400
+"72","Cordillera Administrative Region","Ifugao","Kiangan",140,17048,17048
+"73","Cordillera Administrative Region","Ifugao","Lagawe (Capital)",93,19333,19333
+"74","Cordillera Administrative Region","Ifugao","Lamut",169,25279,25279
+"75","Cordillera Administrative Region","Ifugao","Mayoyao",47,17331,17331
+"76","Cordillera Administrative Region","Ifugao","Tinoc",52,16559,16559
+"77","Cordillera Administrative Region","Kalinga","Balbalan",18,12195,12195
+"78","Cordillera Administrative Region","Kalinga","Lubuagan",31,8733,8733
+"79","Cordillera Administrative Region","Kalinga","Pasil",34,9644,9644
+"80","Cordillera Administrative Region","Kalinga","Pinukpuk",43,32026,32026
+"81","Cordillera Administrative Region","Kalinga","Rizal",60,17038,17038
+"82","Cordillera Administrative Region","Kalinga","Tanudan",31,9534,9534
+"83","Cordillera Administrative Region","Kalinga","Tinglayan",59,12868,12868
+"84","Cordillera Administrative Region","Kalinga","City of Tabuk (Capital)",158,110642,110642
+"85","Cordillera Administrative Region","Mountain Province","Barlig",13,4819,4819
+"86","Cordillera Administrative Region","Mountain Province","Bauko",182,31065,31065
+"87","Cordillera Administrative Region","Mountain Province","Besao",39,7040,7040
+"88","Cordillera Administrative Region","Mountain Province","Bontoc (Capital)",62,24643,24643
+"89","Cordillera Administrative Region","Mountain Province","Natonin",40,10272,10272
+"90","Cordillera Administrative Region","Mountain Province","Paracelis",49,28121,28121
+"91","Cordillera Administrative Region","Mountain Province","Sabangan",85,9315,9315
+"92","Cordillera Administrative Region","Mountain Province","Sadanga",27,8799,8799
+"93","Cordillera Administrative Region","Mountain Province","Sagada",101,11127,11127
+"94","Cordillera Administrative Region","Mountain Province","Tadian",123,19389,19389
+"95","Region I - Ilocos ","Ilocos Norte","Adams",11,1792,1792
+"96","Region I - Ilocos ","Ilocos Norte","Bacarra",493,32215,32215
+"97","Region I - Ilocos ","Ilocos Norte","Badoc",378,31616,31616
+"98","Region I - Ilocos ","Ilocos Norte","Bangui",135,14672,14672
+"99","Region I - Ilocos ","Ilocos Norte","Banna ",210,19438,19438
+"100","Region I - Ilocos ","Ilocos Norte","Burgos",76,9777,9777
+"101","Region I - Ilocos ","Ilocos Norte","Carasi",19,1567,1567
+"102","Region I - Ilocos ","Ilocos Norte","Currimao",324,12184,12184
+"103","Region I - Ilocos ","Ilocos Norte","Dingras",353,38562,38562
+"104","Region I - Ilocos ","Ilocos Norte","Dumalneg",32,2947,2947
+"105","Region I - Ilocos ","Ilocos Norte","Marcos",232,17777,17777
+"106","Region I - Ilocos ","Ilocos Norte","Nueva Era",18,9506,9506
+"107","Region I - Ilocos ","Ilocos Norte","Pagudpud",122,23770,23770
+"108","Region I - Ilocos ","Ilocos Norte","Paoay",326,24866,24866
+"109","Region I - Ilocos ","Ilocos Norte","Pasuquin",180,28980,28980
+"110","Region I - Ilocos ","Ilocos Norte","Piddig",99,21497,21497
+"111","Region I - Ilocos ","Ilocos Norte","Pinili",231,17300,17300
+"112","Region I - Ilocos ","Ilocos Norte","San Nicolas",914,36736,36736
+"113","Region I - Ilocos ","Ilocos Norte","Sarrat",439,25212,25212
+"114","Region I - Ilocos ","Ilocos Norte","Solsona",145,24121,24121
+"115","Region I - Ilocos ","Ilocos Norte","Vintar",52,32220,32220
+"116","Region I - Ilocos ","Ilocos Norte","City of Batac",343,55201,55201
+"117","Region I - Ilocos ","Ilocos Norte","Laoag City (Capital)",957,111125,111125
+"118","Region I - Ilocos ","Ilocos Sur","Alilem",77,6695,6695
+"119","Region I - Ilocos ","Ilocos Sur","Banayoyo",315,7748,7748
+"120","Region I - Ilocos ","Ilocos Sur","Bantay",499,35731,35731
+"121","Region I - Ilocos ","Ilocos Sur","Burgos",250,12224,12224
+"122","Region I - Ilocos ","Ilocos Sur","Cabugao",359,37501,37501
+"123","Region I - Ilocos ","Ilocos Sur","Caoayan",1140,19861,19861
+"124","Region I - Ilocos ","Ilocos Sur","Cervantes",51,17211,17211
+"125","Region I - Ilocos ","Ilocos Sur","Galimuyod",351,10748,10748
+"126","Region I - Ilocos ","Ilocos Sur","Gregorio del Pilar",117,4875,4875
+"127","Region I - Ilocos ","Ilocos Sur","Lidlidda",137,4647,4647
+"128","Region I - Ilocos ","Ilocos Sur","Magsingal",353,30792,30792
+"129","Region I - Ilocos ","Ilocos Sur","Nagbukel",118,5259,5259
+"130","Region I - Ilocos ","Ilocos Sur","Narvacan",360,44006,44006
+"131","Region I - Ilocos ","Ilocos Sur","Quirino ",35,8573,8573
+"132","Region I - Ilocos ","Ilocos Sur","Salcedo",109,11288,11288
+"133","Region I - Ilocos ","Ilocos Sur","San Emilio",36,7407,7407
+"134","Region I - Ilocos ","Ilocos Sur","San Esteban",426,8349,8349
+"135","Region I - Ilocos ","Ilocos Sur","San Ildefonso",686,7787,7787
+"136","Region I - Ilocos ","Ilocos Sur","San Juan",478,26411,26411
+"137","Region I - Ilocos ","Ilocos Sur","San Vicente",1013,12758,12758
+"138","Region I - Ilocos ","Ilocos Sur","Santa",141,15340,15340
+"139","Region I - Ilocos ","Ilocos Sur","Santa Catalina",1441,13945,13945
+"140","Region I - Ilocos ","Ilocos Sur","Santa Cruz",417,39868,39868
+"141","Region I - Ilocos ","Ilocos Sur","Santa Lucia",511,25402,25402
+"142","Region I - Ilocos ","Ilocos Sur","Santa Maria",480,30321,30321
+"143","Region I - Ilocos ","Ilocos Sur","Santiago",405,18759,18759
+"144","Region I - Ilocos ","Ilocos Sur","Santo Domingo",504,27975,27975
+"145","Region I - Ilocos ","Ilocos Sur","Sigay",34,2737,2737
+"146","Region I - Ilocos ","Ilocos Sur","Sinait",391,25640,25640
+"147","Region I - Ilocos ","Ilocos Sur","Sugpon",80,4585,4585
+"148","Region I - Ilocos ","Ilocos Sur","Suyo",79,11446,11446
+"149","Region I - Ilocos ","Ilocos Sur","Tagudin",260,39277,39277
+"150","Region I - Ilocos ","Ilocos Sur","City of Candon",587,60623,60623
+"151","Region I - Ilocos ","Ilocos Sur","City of Vigan (Capital)",2145,53879,53879
+"152","Region I - Ilocos ","La Union","Agoo",1205,63692,63692
+"153","Region I - Ilocos ","La Union","Aringay",523,47458,47458
+"154","Region I - Ilocos ","La Union","Bacnotan",538,42078,42078
+"155","Region I - Ilocos ","La Union","Bagulin",125,13456,13456
+"156","Region I - Ilocos ","La Union","Balaoan",567,39188,39188
+"157","Region I - Ilocos ","La Union","Bangar",962,35947,35947
+"158","Region I - Ilocos ","La Union","Bauang",1041,75032,75032
+"159","Region I - Ilocos ","La Union","Burgos",247,8067,8067
+"160","Region I - Ilocos ","La Union","Caba",476,22039,22039
+"161","Region I - Ilocos ","La Union","Luna",835,35802,35802
+"162","Region I - Ilocos ","La Union","Naguilian",518,54221,54221
+"163","Region I - Ilocos ","La Union","Pugo",210,19690,19690
+"164","Region I - Ilocos ","La Union","Rosario",734,55458,55458
+"165","Region I - Ilocos ","La Union","San Gabriel",140,18172,18172
+"166","Region I - Ilocos ","La Union","San Juan",651,37188,37188
+"167","Region I - Ilocos ","La Union","Santo Tomas",611,39092,39092
+"168","Region I - Ilocos ","La Union","Santol",112,12476,12476
+"169","Region I - Ilocos ","La Union","Sudipen",170,17056,17056
+"170","Region I - Ilocos ","La Union","Tubao",566,28729,28729
+"171","Region I - Ilocos ","La Union","City of San Fernando (Capital)",1186,121812,121812
+"172","Region I - Ilocos ","Pangasinan","Agno",165,28052,28052
+"173","Region I - Ilocos ","Pangasinan","Aguilar",213,41463,41463
+"174","Region I - Ilocos ","Pangasinan","Alcala",950,43402,43402
+"175","Region I - Ilocos ","Pangasinan","Anda",530,39504,39504
+"176","Region I - Ilocos ","Pangasinan","Asingan",861,57355,57355
+"177","Region I - Ilocos ","Pangasinan","Balungao",435,31106,31106
+"178","Region I - Ilocos ","Pangasinan","Bani",267,50306,50306
+"179","Region I - Ilocos ","Pangasinan","Basista",1296,32959,32959
+"180","Region I - Ilocos ","Pangasinan","Bautista",721,32307,32307
+"181","Region I - Ilocos ","Pangasinan","Bayambang",821,118205,118205
+"182","Region I - Ilocos ","Pangasinan","Binalonan",940,54555,54555
+"183","Region I - Ilocos ","Pangasinan","Binmaley",1345,83052,83052
+"184","Region I - Ilocos ","Pangasinan","Bolinao",416,82084,82084
+"185","Region I - Ilocos ","Pangasinan","Bugallon",355,67348,67348
+"186","Region I - Ilocos ","Pangasinan","Burgos",173,21637,21637
+"187","Region I - Ilocos ","Pangasinan","Calasiao",1968,95154,95154
+"188","Region I - Ilocos ","Pangasinan","Dasol",175,29110,29110
+"189","Region I - Ilocos ","Pangasinan","Infanta",97,24584,24584
+"190","Region I - Ilocos ","Pangasinan","Labrador",255,23201,23201
+"191","Region I - Ilocos ","Pangasinan","Lingayen (Capital)",1646,103278,103278
+"192","Region I - Ilocos ","Pangasinan","Mabini",85,24765,24765
+"193","Region I - Ilocos ","Pangasinan","Malasiqui",992,130275,130275
+"194","Region I - Ilocos ","Pangasinan","Manaoag",1242,69497,69497
+"195","Region I - Ilocos ","Pangasinan","Mangaldan",2207,106331,106331
+"196","Region I - Ilocos ","Pangasinan","Mangatarem",236,73241,73241
+"197","Region I - Ilocos ","Pangasinan","Mapandan",1764,37059,37059
+"198","Region I - Ilocos ","Pangasinan","Natividad",181,24299,24299
+"199","Region I - Ilocos ","Pangasinan","Pozorrubio",955,69555,69555
+"200","Region I - Ilocos ","Pangasinan","Rosales",914,63081,63081
+"201","Region I - Ilocos ","Pangasinan","San Fabian",1122,83025,83025
+"202","Region I - Ilocos ","Pangasinan","San Jacinto",2939,40848,40848
+"203","Region I - Ilocos ","Pangasinan","San Manuel",386,52939,52939
+"204","Region I - Ilocos ","Pangasinan","San Nicolas",137,35574,35574
+"205","Region I - Ilocos ","Pangasinan","San Quintin",322,32945,32945
+"206","Region I - Ilocos ","Pangasinan","Santa Barbara",1336,82012,82012
+"207","Region I - Ilocos ","Pangasinan","Santa Maria",662,33038,33038
+"208","Region I - Ilocos ","Pangasinan","Santo Tomas",1119,15022,15022
+"209","Region I - Ilocos ","Pangasinan","Sison",303,47518,47518
+"210","Region I - Ilocos ","Pangasinan","Sual",262,34149,34149
+"211","Region I - Ilocos ","Pangasinan","Tayug",842,43149,43149
+"212","Region I - Ilocos ","Pangasinan","Umingan",275,73252,73252
+"213","Region I - Ilocos ","Pangasinan","Urbiztondo",1169,50170,50170
+"214","Region I - Ilocos ","Pangasinan","Villasis",762,62333,62333
+"215","Region I - Ilocos ","Pangasinan","Laoac",800,31497,31497
+"216","Region I - Ilocos ","Pangasinan","City of Alaminos",546,89708,89708
+"217","Region I - Ilocos ","Pangasinan","Dagupan City",4600,171271,171271
+"218","Region I - Ilocos ","Pangasinan","San Carlos City",1116,188571,188571
+"219","Region I - Ilocos ","Pangasinan","City of Urdaneta",1354,132940,132940
+"220","Region II - Cagayan Valley","Batanes","Basco (Capital)",255,8579,8579
+"221","Region II - Cagayan Valley","Batanes","Itbayat",34,2867,2867
+"222","Region II - Cagayan Valley","Batanes","Ivana",80,1327,1327
+"223","Region II - Cagayan Valley","Batanes","Mahatao",121,1555,1555
+"224","Region II - Cagayan Valley","Batanes","Sabtang",40,1621,1621
+"225","Region II - Cagayan Valley","Batanes","Uyugan",80,1297,1297
+"226","Region II - Cagayan Valley","Cagayan","Abulug",200,32497,32497
+"227","Region II - Cagayan Valley","Cagayan","Alcala",231,38883,38883
+"228","Region II - Cagayan Valley","Cagayan","Allacapan",109,33571,33571
+"229","Region II - Cagayan Valley","Cagayan","Amulung",181,47860,47860
+"230","Region II - Cagayan Valley","Cagayan","Aparri",229,65649,65649
+"231","Region II - Cagayan Valley","Cagayan","Baggao",83,82782,82782
+"232","Region II - Cagayan Valley","Cagayan","Ballesteros",282,34299,34299
+"233","Region II - Cagayan Valley","Cagayan","Buguey",190,30175,30175
+"234","Region II - Cagayan Valley","Cagayan","Calayan",34,16702,16702
+"235","Region II - Cagayan Valley","Cagayan","Camalaniugan",249,24923,24923
+"236","Region II - Cagayan Valley","Cagayan","Claveria",191,29921,29921
+"237","Region II - Cagayan Valley","Cagayan","Enrile",215,35834,35834
+"238","Region II - Cagayan Valley","Cagayan","Gattaran",80,56661,56661
+"239","Region II - Cagayan Valley","Cagayan","Gonzaga",68,38892,38892
+"240","Region II - Cagayan Valley","Cagayan","Iguig",254,27862,27862
+"241","Region II - Cagayan Valley","Cagayan","Lal-lo",62,44506,44506
+"242","Region II - Cagayan Valley","Cagayan","Lasam",178,39135,39135
+"243","Region II - Cagayan Valley","Cagayan","Pamplona",112,23596,23596
+"244","Region II - Cagayan Valley","Cagayan","PeÐablanca",39,48584,48584
+"245","Region II - Cagayan Valley","Cagayan","Piat",130,23597,23597
+"246","Region II - Cagayan Valley","Cagayan","Rizal",54,17994,17994
+"247","Region II - Cagayan Valley","Cagayan","Sanchez-Mira",112,24541,24541
+"248","Region II - Cagayan Valley","Cagayan","Santa Ana",75,32906,32906
+"249","Region II - Cagayan Valley","Cagayan","Santa Praxedes",53,4154,4154
+"250","Region II - Cagayan Valley","Cagayan","Santa Teresita",114,19038,19038
+"251","Region II - Cagayan Valley","Cagayan","Santo NiÐo",64,27219,27219
+"252","Region II - Cagayan Valley","Cagayan","Solana",352,82502,82502
+"253","Region II - Cagayan Valley","Cagayan","Tuao",272,61535,61535
+"254","Region II - Cagayan Valley","Cagayan","Tuguegarao City (Capital)",1060,153502,153502
+"255","Region II - Cagayan Valley","Isabela","Alicia",464,71504,71504
+"256","Region II - Cagayan Valley","Isabela","Angadanan",211,43061,43061
+"257","Region II - Cagayan Valley","Isabela","Aurora",479,35017,35017
+"258","Region II - Cagayan Valley","Isabela","Benito Soliven",150,29624,29624
+"259","Region II - Cagayan Valley","Isabela","Burgos",325,23784,23784
+"260","Region II - Cagayan Valley","Isabela","Cabagan",121,50174,50174
+"261","Region II - Cagayan Valley","Isabela","Cabatuan",569,39413,39413
+"262","Region II - Cagayan Valley","Isabela","Cordon",185,42926,42926
+"263","Region II - Cagayan Valley","Isabela","Dinapigue",5,5005,5005
+"264","Region II - Cagayan Valley","Isabela","Divilacan",6,5687,5687
+"265","Region II - Cagayan Valley","Isabela","Echague",122,79094,79094
+"266","Region II - Cagayan Valley","Isabela","Gamu",282,29904,29904
+"267","Region II - Cagayan Valley","Isabela","Jones",68,45666,45666
+"268","Region II - Cagayan Valley","Isabela","Luna",430,19326,19326
+"269","Region II - Cagayan Valley","Isabela","Maconacon",8,4253,4253
+"270","Region II - Cagayan Valley","Isabela","Delfin Albano ",141,26614,26614
+"271","Region II - Cagayan Valley","Isabela","Mallig",192,30459,30459
+"272","Region II - Cagayan Valley","Isabela","Naguilian",188,31902,31902
+"273","Region II - Cagayan Valley","Isabela","Palanan",20,17260,17260
+"274","Region II - Cagayan Valley","Isabela","Quezon",125,25860,25860
+"275","Region II - Cagayan Valley","Isabela","Quirino",194,24501,24501
+"276","Region II - Cagayan Valley","Isabela","Ramon",284,52707,52707
+"277","Region II - Cagayan Valley","Isabela","Reina Mercedes",472,26998,26998
+"278","Region II - Cagayan Valley","Isabela","Roxas",441,61773,61773
+"279","Region II - Cagayan Valley","Isabela","San Agustin",75,22880,22880
+"280","Region II - Cagayan Valley","Isabela","San Guillermo",44,20200,20200
+"281","Region II - Cagayan Valley","Isabela","San Isidro",393,24861,24861
+"282","Region II - Cagayan Valley","Isabela","San Manuel",257,31896,31896
+"283","Region II - Cagayan Valley","Isabela","San Mariano",38,55370,55370
+"284","Region II - Cagayan Valley","Isabela","San Mateo",266,64505,64505
+"285","Region II - Cagayan Valley","Isabela","San Pablo",40,25384,25384
+"286","Region II - Cagayan Valley","Isabela","Santa Maria",203,25382,25382
+"287","Region II - Cagayan Valley","Isabela","Santo Tomas",285,23005,23005
+"288","Region II - Cagayan Valley","Isabela","Tumauini",143,67650,67650
+"289","Region II - Cagayan Valley","Isabela","City of Cauayan",385,129523,129523
+"290","Region II - Cagayan Valley","Isabela","Ilagan City (Capital) 1",125,145568,145568
+"291","Region II - Cagayan Valley","Isabela","City of Santiago",528,134830,134830
+"292","Region II - Cagayan Valley","Nueva Vizcaya","Alfonso Castaneda",9,7940,7940
+"293","Region II - Cagayan Valley","Nueva Vizcaya","Ambaguio",85,15250,15250
+"294","Region II - Cagayan Valley","Nueva Vizcaya","Aritao",140,37225,37225
+"295","Region II - Cagayan Valley","Nueva Vizcaya","Bagabag",192,35501,35501
+"296","Region II - Cagayan Valley","Nueva Vizcaya","Bambang",155,53433,53433
+"297","Region II - Cagayan Valley","Nueva Vizcaya","Bayombong (Capital)",377,61512,61512
+"298","Region II - Cagayan Valley","Nueva Vizcaya","Diadi",100,18122,18122
+"299","Region II - Cagayan Valley","Nueva Vizcaya","Dupax del Norte",79,27514,27514
+"300","Region II - Cagayan Valley","Nueva Vizcaya","Dupax del Sur",51,19111,19111
+"301","Region II - Cagayan Valley","Nueva Vizcaya","Kasibu",118,37705,37705
+"302","Region II - Cagayan Valley","Nueva Vizcaya","Kayapa",32,23714,23714
+"303","Region II - Cagayan Valley","Nueva Vizcaya","Quezon",79,21056,21056
+"304","Region II - Cagayan Valley","Nueva Vizcaya","Santa Fe",40,16180,16180
+"305","Region II - Cagayan Valley","Nueva Vizcaya","Solano",426,59517,59517
+"306","Region II - Cagayan Valley","Nueva Vizcaya","Villaverde",227,18507,18507
+"307","Region II - Cagayan Valley","Quirino","Aglipay",94,27787,27787
+"308","Region II - Cagayan Valley","Quirino","Cabarroguis (Capital)",118,30582,30582
+"309","Region II - Cagayan Valley","Quirino","Diffun",163,52569,52569
+"310","Region II - Cagayan Valley","Quirino","Maddela",42,38499,38499
+"311","Region II - Cagayan Valley","Quirino","Saguday",311,16070,16070
+"312","Region II - Cagayan Valley","Quirino","Nagtipunan",39,23484,23484
+"313","Region III - Central Luzon ","Aurora","Baler (Capital)",428,39562,39562
+"314","Region III - Central Luzon ","Aurora","Casiguran",34,24313,24313
+"315","Region III - Central Luzon ","Aurora","Dilasag",52,15835,15835
+"316","Region III - Central Luzon ","Aurora","Dinalungan",36,11322,11322
+"317","Region III - Central Luzon ","Aurora","Dingalan",84,25482,25482
+"318","Region III - Central Luzon ","Aurora","Dipaculao",82,29736,29736
+"319","Region III - Central Luzon ","Aurora","Maria Aurora",96,40734,40734
+"320","Region III - Central Luzon ","Aurora","San Luis",45,27352,27352
+"321","Region III - Central Luzon ","Bataan","Abucay",500,39880,39880
+"322","Region III - Central Luzon ","Bataan","Bagac",117,26936,26936
+"323","Region III - Central Luzon ","Bataan","Dinalupihan",1150,106371,106371
+"324","Region III - Central Luzon ","Bataan","Hermosa",464,65862,65862
+"325","Region III - Central Luzon ","Bataan","Limay",657,68071,68071
+"326","Region III - Central Luzon ","Bataan","Mariveles",829,127536,127536
+"327","Region III - Central Luzon ","Bataan","Morong",136,29901,29901
+"328","Region III - Central Luzon ","Bataan","Orani",1047,66909,66909
+"329","Region III - Central Luzon ","Bataan","Orion",856,56002,56002
+"330","Region III - Central Luzon ","Bataan","Pilar",925,41823,41823
+"331","Region III - Central Luzon ","Bataan","Samal",627,35298,35298
+"332","Region III - Central Luzon ","Bataan","City of Balanga (Capital)",861,96061,96061
+"333","Region III - Central Luzon ","Bulacan","Angat",962,59237,59237
+"334","Region III - Central Luzon ","Bulacan","Balagtas",2580,73929,73929
+"335","Region III - Central Luzon ","Bulacan","Baliuag",3206,149954,149954
+"336","Region III - Central Luzon ","Bulacan","Bocaue",3755,119675,119675
+"337","Region III - Central Luzon ","Bulacan","Bulacan",1050,76565,76565
+"338","Region III - Central Luzon ","Bulacan","Bustos",958,67039,67039
+"339","Region III - Central Luzon ","Bulacan","Calumpit",1933,108757,108757
+"340","Region III - Central Luzon ","Bulacan","Guiguinto",3627,99730,99730
+"341","Region III - Central Luzon ","Bulacan","Hagonoy",1118,129807,129807
+"342","Region III - Central Luzon ","Bulacan","Marilao",6579,221965,221965
+"343","Region III - Central Luzon ","Bulacan","Norzagaray",359,111348,111348
+"344","Region III - Central Luzon ","Bulacan","Obando",1136,59197,59197
+"345","Region III - Central Luzon ","Bulacan","Pandi",2855,89075,89075
+"346","Region III - Central Luzon ","Bulacan","Paombong",1150,53294,53294
+"347","Region III - Central Luzon ","Bulacan","Plaridel",3323,107805,107805
+"348","Region III - Central Luzon ","Bulacan","Pulilan",2440,97323,97323
+"349","Region III - Central Luzon ","Bulacan","San Ildefonso",812,104471,104471
+"350","Region III - Central Luzon ","Bulacan","San Miguel",665,153882,153882
+"351","Region III - Central Luzon ","Bulacan","San Rafael",621,94655,94655
+"352","Region III - Central Luzon ","Bulacan","Santa Maria",2821,256454,256454
+"353","Region III - Central Luzon ","Bulacan","DoÐa Remedios Trinidad",24,22663,22663
+"354","Region III - Central Luzon ","Bulacan","City of Malolos (Capital)",3748,252074,252074
+"355","Region III - Central Luzon ","Bulacan","City of Meycauayan",6513,209083,209083
+"356","Region III - Central Luzon ","Bulacan","City of San Jose del Monte",2043,574089,574089
+"357","Region III - Central Luzon ","Nueva Ecija","Aliaga",706,63543,63543
+"358","Region III - Central Luzon ","Nueva Ecija","Bongabon",264,64173,64173
+"359","Region III - Central Luzon ","Nueva Ecija","Cabiao",706,79007,79007
+"360","Region III - Central Luzon ","Nueva Ecija","Carranglan",58,41131,41131
+"361","Region III - Central Luzon ","Nueva Ecija","Cuyapo",301,65039,65039
+"362","Region III - Central Luzon ","Nueva Ecija","Gabaldon",157,35383,35383
+"363","Region III - Central Luzon ","Nueva Ecija","General Mamerto Natividad",353,41656,41656
+"364","Region III - Central Luzon ","Nueva Ecija","General Tinio (Papaya)",90,47865,47865
+"365","Region III - Central Luzon ","Nueva Ecija","Guimba",547,118655,118655
+"366","Region III - Central Luzon ","Nueva Ecija","Jaen",856,73184,73184
+"367","Region III - Central Luzon ","Nueva Ecija","Laur",121,35656,35656
+"368","Region III - Central Luzon ","Nueva Ecija","Licab",475,28254,28254
+"369","Region III - Central Luzon ","Nueva Ecija","Llanera",347,39701,39701
+"370","Region III - Central Luzon ","Nueva Ecija","Lupao",363,43788,43788
+"371","Region III - Central Luzon ","Nueva Ecija","Nampicuan",315,14954,14954
+"372","Region III - Central Luzon ","Nueva Ecija","Pantabangan",76,29925,29925
+"373","Region III - Central Luzon ","Nueva Ecija","PeÐaranda",315,29882,29882
+"374","Region III - Central Luzon ","Nueva Ecija","Quezon",592,40592,40592
+"375","Region III - Central Luzon ","Nueva Ecija","Rizal",532,64087,64087
+"376","Region III - Central Luzon ","Nueva Ecija","San Antonio",507,77836,77836
+"377","Region III - Central Luzon ","Nueva Ecija","San Isidro",914,51612,51612
+"378","Region III - Central Luzon ","Nueva Ecija","San Leonardo",1249,65299,65299
+"379","Region III - Central Luzon ","Nueva Ecija","Santa Rosa",472,69467,69467
+"380","Region III - Central Luzon ","Nueva Ecija","Santo Domingo",774,57943,57943
+"381","Region III - Central Luzon ","Nueva Ecija","Talavera",886,124829,124829
+"382","Region III - Central Luzon ","Nueva Ecija","Talugtug",234,23817,23817
+"383","Region III - Central Luzon ","Nueva Ecija","Zaragoza",686,49387,49387
+"384","Region III - Central Luzon ","Nueva Ecija","Cabanatuan City",1069,302231,302231
+"385","Region III - Central Luzon ","Nueva Ecija","City of Gapan",671,110303,110303
+"386","Region III - Central Luzon ","Nueva Ecija","Science City of MuÐoz",500,81483,81483
+"387","Region III - Central Luzon ","Nueva Ecija","Palayan City (Capital)",405,41041,41041
+"388","Region III - Central Luzon ","Nueva Ecija","San Jose City",753,139738,139738
+"389","Region III - Central Luzon ","Pampanga","Apalit",1756,107965,107965
+"390","Region III - Central Luzon ","Pampanga","Arayat",993,133492,133492
+"391","Region III - Central Luzon ","Pampanga","Bacolor",550,39460,39460
+"392","Region III - Central Luzon ","Pampanga","Candaba",633,111586,111586
+"393","Region III - Central Luzon ","Pampanga","Floridablanca",963,125163,125163
+"394","Region III - Central Luzon ","Pampanga","Guagua",2413,117430,117430
+"395","Region III - Central Luzon ","Pampanga","Lubao",1033,160838,160838
+"396","Region III - Central Luzon ","Pampanga","Macabebe",721,75850,75850
+"397","Region III - Central Luzon ","Pampanga","Magalang",1141,113147,113147
+"398","Region III - Central Luzon ","Pampanga","Masantol",1183,57063,57063
+"399","Region III - Central Luzon ","Pampanga","Mexico",1289,154624,154624
+"400","Region III - Central Luzon ","Pampanga","Minalin",988,47713,47713
+"401","Region III - Central Luzon ","Pampanga","Porac",416,124381,124381
+"402","Region III - Central Luzon ","Pampanga","San Luis",952,54106,54106
+"403","Region III - Central Luzon ","Pampanga","San Simon",927,53198,53198
+"404","Region III - Central Luzon ","Pampanga","Santa Ana",1385,55178,55178
+"405","Region III - Central Luzon ","Pampanga","Santa Rita",1377,40979,40979
+"406","Region III - Central Luzon ","Pampanga","Santo Tomas",2746,40475,40475
+"407","Region III - Central Luzon ","Pampanga","Sasmuan",620,28004,28004
+"408","Region III - Central Luzon ","Pampanga","Mabalacat City",1504,250799,250799
+"409","Region III - Central Luzon ","Pampanga","City of San Fernando (Capital)",4424,306659,306659
+"410","Region III - Central Luzon ","Pampanga","Angeles City",6496,411634,411634
+"411","Region III - Central Luzon ","Tarlac","Anao",483,11528,11528
+"412","Region III - Central Luzon ","Tarlac","Bamban",202,69466,69466
+"413","Region III - Central Luzon ","Tarlac","Camiling",592,83248,83248
+"414","Region III - Central Luzon ","Tarlac","Capas",371,140202,140202
+"415","Region III - Central Luzon ","Tarlac","Concepcion",657,154188,154188
+"416","Region III - Central Luzon ","Tarlac","Gerona",717,87531,87531
+"417","Region III - Central Luzon ","Tarlac","La Paz",549,64017,64017
+"418","Region III - Central Luzon ","Tarlac","Mayantoc",104,32232,32232
+"419","Region III - Central Luzon ","Tarlac","Moncada",665,57787,57787
+"420","Region III - Central Luzon ","Tarlac","Paniqui",856,92606,92606
+"421","Region III - Central Luzon ","Tarlac","Pura",765,23712,23712
+"422","Region III - Central Luzon ","Tarlac","Ramos",875,21350,21350
+"423","Region III - Central Luzon ","Tarlac","San Clemente",212,12657,12657
+"424","Region III - Central Luzon ","Tarlac","San Jose",61,36253,36253
+"425","Region III - Central Luzon ","Tarlac","San Manuel",694,25504,25504
+"426","Region III - Central Luzon ","Tarlac","Santa Ignacia",325,47538,47538
+"427","Region III - Central Luzon ","Tarlac","Victoria",571,63715,63715
+"428","Region III - Central Luzon ","Tarlac","City of Tarlac (Capital)",1247,342493,342493
+"429","Region III - Central Luzon ","Zambales","Botolan",78,57707,57707
+"430","Region III - Central Luzon ","Zambales","Cabangan",144,25163,25163
+"431","Region III - Central Luzon ","Zambales","Candelaria",81,27174,27174
+"432","Region III - Central Luzon ","Zambales","Castillejos",697,64841,64841
+"433","Region III - Central Luzon ","Zambales","Iba (Capital)",329,50506,50506
+"434","Region III - Central Luzon ","Zambales","Masinloc",151,47719,47719
+"435","Region III - Central Luzon ","Zambales","Palauig",113,34947,34947
+"436","Region III - Central Luzon ","Zambales","San Antonio",184,34661,34661
+"437","Region III - Central Luzon ","Zambales","San Felipe",208,23183,23183
+"438","Region III - Central Luzon ","Zambales","San Marcelino",81,33665,33665
+"439","Region III - Central Luzon ","Zambales","San Narciso",396,28360,28360
+"440","Region III - Central Luzon ","Zambales","Santa Cruz",133,58151,58151
+"441","Region III - Central Luzon ","Zambales","Subic",365,104771,104771
+"442","Region III - Central Luzon ","Zambales","Olongapo City",1260,233040,233040
+"443","Region IV-A - Calabarzon","Batangas","Agoncillo",762,38059,38059
+"444","Region IV-A - Calabarzon","Batangas","Alitagtag",1022,25300,25300
+"445","Region IV-A - Calabarzon","Batangas","Balayan",834,90699,90699
+"446","Region IV-A - Calabarzon","Batangas","Balete",1290,22661,22661
+"447","Region IV-A - Calabarzon","Batangas","Bauan",1713,91297,91297
+"448","Region IV-A - Calabarzon","Batangas","Calaca",714,81859,81859
+"449","Region IV-A - Calabarzon","Batangas","Calatagan",556,56449,56449
+"450","Region IV-A - Calabarzon","Batangas","Cuenca",563,32783,32783
+"451","Region IV-A - Calabarzon","Batangas","Ibaan",768,52970,52970
+"452","Region IV-A - Calabarzon","Batangas","Laurel",553,39444,39444
+"453","Region IV-A - Calabarzon","Batangas","Lemery",848,93157,93157
+"454","Region IV-A - Calabarzon","Batangas","Lian",654,52660,52660
+"455","Region IV-A - Calabarzon","Batangas","Lobo",237,41504,41504
+"456","Region IV-A - Calabarzon","Batangas","Mabini",1039,46211,46211
+"457","Region IV-A - Calabarzon","Batangas","Malvar",1705,56270,56270
+"458","Region IV-A - Calabarzon","Batangas","Mataasnakahoy",1485,29187,29187
+"459","Region IV-A - Calabarzon","Batangas","Nasugbu",482,134113,134113
+"460","Region IV-A - Calabarzon","Batangas","Padre Garcia",1164,48302,48302
+"461","Region IV-A - Calabarzon","Batangas","Rosario",515,116764,116764
+"462","Region IV-A - Calabarzon","Batangas","San Jose",1444,76971,76971
+"463","Region IV-A - Calabarzon","Batangas","San Juan",397,108585,108585
+"464","Region IV-A - Calabarzon","Batangas","San Luis",779,33149,33149
+"465","Region IV-A - Calabarzon","Batangas","San Nicolas",1001,22623,22623
+"466","Region IV-A - Calabarzon","Batangas","San Pascual",1768,65424,65424
+"467","Region IV-A - Calabarzon","Batangas","Santa Teresita",1296,21127,21127
+"468","Region IV-A - Calabarzon","Batangas","Santo Tomas",1793,179844,179844
+"469","Region IV-A - Calabarzon","Batangas","Taal",1893,56327,56327
+"470","Region IV-A - Calabarzon","Batangas","Talisay",911,45301,45301
+"471","Region IV-A - Calabarzon","Batangas","Taysan",406,38007,38007
+"472","Region IV-A - Calabarzon","Batangas","Tingloy",542,17919,17919
+"473","Region IV-A - Calabarzon","Batangas","Tuy",462,43743,43743
+"474","Region IV-A - Calabarzon","Batangas","Batangas City (Capital)",1166,329874,329874
+"475","Region IV-A - Calabarzon","Batangas","Lipa City",1587,332386,332386
+"476","Region IV-A - Calabarzon","Batangas","City of Tanauan",1618,173366,173366
+"477","Region IV-A - Calabarzon","Cavite","Alfonso",779,51839,51839
+"478","Region IV-A - Calabarzon","Cavite","Amadeo",1020,37649,37649
+"479","Region IV-A - Calabarzon","Cavite","Carmona",3279,97557,97557
+"480","Region IV-A - Calabarzon","Cavite","Gen. Mariano Alvarez",15928,155143,155143
+"481","Region IV-A - Calabarzon","Cavite","General Emilio Aguinaldo",527,22220,22220
+"482","Region IV-A - Calabarzon","Cavite","Indang",876,65599,65599
+"483","Region IV-A - Calabarzon","Cavite","Kawit",3319,83466,83466
+"484","Region IV-A - Calabarzon","Cavite","Magallanes",311,22727,22727
+"485","Region IV-A - Calabarzon","Cavite","Maragondon",262,37720,37720
+"486","Region IV-A - Calabarzon","Cavite","Mendez ",729,31529,31529
+"487","Region IV-A - Calabarzon","Cavite","Naic",1470,111454,111454
+"488","Region IV-A - Calabarzon","Cavite","Noveleta",2790,45846,45846
+"489","Region IV-A - Calabarzon","Cavite","Rosario",14547,110706,110706
+"490","Region IV-A - Calabarzon","Cavite","Silang",1185,248085,248085
+"491","Region IV-A - Calabarzon","Cavite","Tanza",2888,226188,226188
+"492","Region IV-A - Calabarzon","Cavite","Ternate",534,23157,23157
+"493","Region IV-A - Calabarzon","Cavite","Bacoor City",13009,600609,600609
+"494","Region IV-A - Calabarzon","Cavite","Cavite City",5402,102806,102806
+"495","Region IV-A - Calabarzon","Cavite","City of DasmariÐas",7312,659019,659019
+"496","Region IV-A - Calabarzon","Cavite","City of General Trias",3492,314303,314303
+"497","Region IV-A - Calabarzon","Cavite","Imus City",2352,403785,403785
+"498","Region IV-A - Calabarzon","Cavite","Tagaytay City",1095,71181,71181
+"499","Region IV-A - Calabarzon","Cavite","Trece Martires City (Capital)",3885,155713,155713
+"500","Region IV-A - Calabarzon","Laguna","Alaminos",833,47859,47859
+"501","Region IV-A - Calabarzon","Laguna","Bay",1457,62143,62143
+"502","Region IV-A - Calabarzon","Laguna","Calauan",1033,80453,80453
+"503","Region IV-A - Calabarzon","Laguna","Cavinti",107,21702,21702
+"504","Region IV-A - Calabarzon","Laguna","Famy",313,16587,16587
+"505","Region IV-A - Calabarzon","Laguna","Kalayaan",499,23269,23269
+"506","Region IV-A - Calabarzon","Laguna","Liliw",936,36582,36582
+"507","Region IV-A - Calabarzon","Laguna","Los BaÐos",2066,112008,112008
+"508","Region IV-A - Calabarzon","Laguna","Luisiana",269,19720,19720
+"509","Region IV-A - Calabarzon","Laguna","Lumban",790,30652,30652
+"510","Region IV-A - Calabarzon","Laguna","Mabitac",254,20530,20530
+"511","Region IV-A - Calabarzon","Laguna","Magdalena",722,25266,25266
+"512","Region IV-A - Calabarzon","Laguna","Majayjay",372,27792,27792
+"513","Region IV-A - Calabarzon","Laguna","Nagcarlan",807,63057,63057
+"514","Region IV-A - Calabarzon","Laguna","Paete",456,25096,25096
+"515","Region IV-A - Calabarzon","Laguna","Pagsanjan",1539,42164,42164
+"516","Region IV-A - Calabarzon","Laguna","Pakil",451,20659,20659
+"517","Region IV-A - Calabarzon","Laguna","Pangil",486,24274,24274
+"518","Region IV-A - Calabarzon","Laguna","Pila",1612,50289,50289
+"519","Region IV-A - Calabarzon","Laguna","Rizal",618,17253,17253
+"520","Region IV-A - Calabarzon","Laguna","Santa Cruz (Capital)",3048,117605,117605
+"521","Region IV-A - Calabarzon","Laguna","Santa Maria",284,30830,30830
+"522","Region IV-A - Calabarzon","Laguna","Siniloan",590,38067,38067
+"523","Region IV-A - Calabarzon","Laguna","Victoria",1759,39321,39321
+"524","Region IV-A - Calabarzon","Laguna","City of BiÐan",8270,333028,333028
+"525","Region IV-A - Calabarzon","Laguna","Cabuyao City",7130,308745,308745
+"526","Region IV-A - Calabarzon","Laguna","City of Calamba",3040,454486,454486
+"527","Region IV-A - Calabarzon","Laguna","San Pablo City",1347,266068,266068
+"528","Region IV-A - Calabarzon","Laguna","City of San Pedro",13829,325809,325809
+"529","Region IV-A - Calabarzon","Laguna","City of Santa Rosa",6320,353767,353767
+"530","Region IV-A - Calabarzon","Quezon","Agdangan",376,12851,12851
+"531","Region IV-A - Calabarzon","Quezon","Alabat",271,15630,15630
+"532","Region IV-A - Calabarzon","Quezon","Atimonan",265,63432,63432
+"533","Region IV-A - Calabarzon","Quezon","Buenavista",186,30047,30047
+"534","Region IV-A - Calabarzon","Quezon","Burdeos",134,26760,26760
+"535","Region IV-A - Calabarzon","Quezon","Calauag",225,73139,73139
+"536","Region IV-A - Calabarzon","Quezon","Candelaria",910,117434,117434
+"537","Region IV-A - Calabarzon","Quezon","Catanauan",281,71073,71073
+"538","Region IV-A - Calabarzon","Quezon","Dolores",462,28891,28891
+"539","Region IV-A - Calabarzon","Quezon","General Luna",262,26494,26494
+"540","Region IV-A - Calabarzon","Quezon","General Nakar",22,29705,29705
+"541","Region IV-A - Calabarzon","Quezon","Guinayangan",211,45155,45155
+"542","Region IV-A - Calabarzon","Quezon","Gumaca",390,73877,73877
+"543","Region IV-A - Calabarzon","Quezon","Infanta",347,69079,69079
+"544","Region IV-A - Calabarzon","Quezon","Jomalig",138,7417,7417
+"545","Region IV-A - Calabarzon","Quezon","Lopez",268,95167,95167
+"546","Region IV-A - Calabarzon","Quezon","Lucban",395,51475,51475
+"547","Region IV-A - Calabarzon","Quezon","Macalelon",227,28188,28188
+"548","Region IV-A - Calabarzon","Quezon","Mauban",153,63819,63819
+"549","Region IV-A - Calabarzon","Quezon","Mulanay",126,53123,53123
+"550","Region IV-A - Calabarzon","Quezon","Padre Burgos",325,22460,22460
+"551","Region IV-A - Calabarzon","Quezon","Pagbilao",439,75023,75023
+"552","Region IV-A - Calabarzon","Quezon","Panukulan",64,13546,13546
+"553","Region IV-A - Calabarzon","Quezon","Patnanungan",178,14606,14606
+"554","Region IV-A - Calabarzon","Quezon","Perez",212,12173,12173
+"555","Region IV-A - Calabarzon","Quezon","Pitogo",314,23019,23019
+"556","Region IV-A - Calabarzon","Quezon","Plaridel",601,10935,10935
+"557","Region IV-A - Calabarzon","Quezon","Polillo",121,30582,30582
+"558","Region IV-A - Calabarzon","Quezon","Quezon",214,15228,15228
+"559","Region IV-A - Calabarzon","Quezon","Real",106,35979,35979
+"560","Region IV-A - Calabarzon","Quezon","Sampaloc",173,13907,13907
+"561","Region IV-A - Calabarzon","Quezon","San Andres",207,35780,35780
+"562","Region IV-A - Calabarzon","Quezon","San Antonio",549,33467,33467
+"563","Region IV-A - Calabarzon","Quezon","San Francisco",202,61473,61473
+"564","Region IV-A - Calabarzon","Quezon","San Narciso",184,48461,48461
+"565","Region IV-A - Calabarzon","Quezon","Sariaya",702,148980,148980
+"566","Region IV-A - Calabarzon","Quezon","Tagkawayan",97,51832,51832
+"567","Region IV-A - Calabarzon","Quezon","Tiaong",592,99712,99712
+"568","Region IV-A - Calabarzon","Quezon","Unisan",217,26884,26884
+"569","Region IV-A - Calabarzon","Quezon","City of Tayabas",432,99779,99779
+"570","Region IV-A - Calabarzon","Quezon","Lucena City (Capital)",3319,266248,266248
+"571","Region IV-A - Calabarzon","Rizal","Angono",4320,113283,113283
+"572","Region IV-A - Calabarzon","Rizal","Baras",816,69300,69300
+"573","Region IV-A - Calabarzon","Rizal","Binangonan",4258,282474,282474
+"574","Region IV-A - Calabarzon","Rizal","Cainta",16294,322128,322128
+"575","Region IV-A - Calabarzon","Rizal","Cardona",2545,49034,49034
+"576","Region IV-A - Calabarzon","Rizal","Jala-Jala",731,32254,32254
+"577","Region IV-A - Calabarzon","Rizal","Rodriguez ",2139,369222,369222
+"578","Region IV-A - Calabarzon","Rizal","Morong",1547,58118,58118
+"579","Region IV-A - Calabarzon","Rizal","Pililla",927,64812,64812
+"580","Region IV-A - Calabarzon","Rizal","San Mateo",4584,252527,252527
+"581","Region IV-A - Calabarzon","Rizal","Tanay",391,117830,117830
+"582","Region IV-A - Calabarzon","Rizal","Taytay",12446,319104,319104
+"583","Region IV-A - Calabarzon","Rizal","Teresa",3103,57755,57755
+"584","Region IV-A - Calabarzon","Rizal","City of Antipolo",2536,776386,776386
+"585","Region IV-B - Mimaropa","Marinduque","Boac (Capital)",257,54730,54730
+"586","Region IV-B - Mimaropa","Marinduque","Buenavista",295,23988,23988
+"587","Region IV-B - Mimaropa","Marinduque","Gasan",345,34828,34828
+"588","Region IV-B - Mimaropa","Marinduque","Mogpog",315,34043,34043
+"589","Region IV-B - Mimaropa","Marinduque","Santa Cruz",208,56408,56408
+"590","Region IV-B - Mimaropa","Marinduque","Torrijos",171,30524,30524
+"591","Region IV-B - Mimaropa","Occidental Mindoro","Abra de Ilog",45,31306,31306
+"592","Region IV-B - Mimaropa","Occidental Mindoro","Calintaan",50,29826,29826
+"593","Region IV-B - Mimaropa","Occidental Mindoro","Looc",89,10117,10117
+"594","Region IV-B - Mimaropa","Occidental Mindoro","Lubang",150,18803,18803
+"595","Region IV-B - Mimaropa","Occidental Mindoro","Magsaysay",130,36016,36016
+"596","Region IV-B - Mimaropa","Occidental Mindoro","Mamburao (Capital)",152,42975,42975
+"597","Region IV-B - Mimaropa","Occidental Mindoro","Paluan",28,16025,16025
+"598","Region IV-B - Mimaropa","Occidental Mindoro","Rizal",130,38263,38263
+"599","Region IV-B - Mimaropa","Occidental Mindoro","Sablayan",40,83169,83169
+"600","Region IV-B - Mimaropa","Occidental Mindoro","San Jose",236,143430,143430
+"601","Region IV-B - Mimaropa","Occidental Mindoro","Santa Cruz",53,37484,37484
+"602","Region IV-B - Mimaropa","Oriental Mindoro","Baco",120,37215,37215
+"603","Region IV-B - Mimaropa","Oriental Mindoro","Bansud",119,40992,40992
+"604","Region IV-B - Mimaropa","Oriental Mindoro","Bongabong",178,72073,72073
+"605","Region IV-B - Mimaropa","Oriental Mindoro","Bulalacao",109,39107,39107
+"606","Region IV-B - Mimaropa","Oriental Mindoro","Gloria",184,45073,45073
+"607","Region IV-B - Mimaropa","Oriental Mindoro","Mansalay",98,54533,54533
+"608","Region IV-B - Mimaropa","Oriental Mindoro","Naujan",204,102998,102998
+"609","Region IV-B - Mimaropa","Oriental Mindoro","Pinamalayan",362,86172,86172
+"610","Region IV-B - Mimaropa","Oriental Mindoro","Pola",218,34701,34701
+"611","Region IV-B - Mimaropa","Oriental Mindoro","Puerto Galera",148,36606,36606
+"612","Region IV-B - Mimaropa","Oriental Mindoro","Roxas",624,53201,53201
+"613","Region IV-B - Mimaropa","Oriental Mindoro","San Teodoro",53,17904,17904
+"614","Region IV-B - Mimaropa","Oriental Mindoro","Socorro",258,39099,39099
+"615","Region IV-B - Mimaropa","Oriental Mindoro","Victoria",198,50492,50492
+"616","Region IV-B - Mimaropa","Oriental Mindoro","City of Calapan (Capital)",720,133893,133893
+"617","Region IV-B - Mimaropa","Palawan","Aborlan",43,35091,35091
+"618","Region IV-B - Mimaropa","Palawan","Agutaya",399,12545,12545
+"619","Region IV-B - Mimaropa","Palawan","Araceli",73,14909,14909
+"620","Region IV-B - Mimaropa","Palawan","Balabac",72,40142,40142
+"621","Region IV-B - Mimaropa","Palawan","Bataraza",104,75468,75468
+"622","Region IV-B - Mimaropa","Palawan","Brooke's Point",51,66374,66374
+"623","Region IV-B - Mimaropa","Palawan","Busuanga",56,22046,22046
+"624","Region IV-B - Mimaropa","Palawan","Cagayancillo",238,6285,6285
+"625","Region IV-B - Mimaropa","Palawan","Coron",77,51803,51803
+"626","Region IV-B - Mimaropa","Palawan","Cuyo",263,22360,22360
+"627","Region IV-B - Mimaropa","Palawan","Dumaran",45,23734,23734
+"628","Region IV-B - Mimaropa","Palawan","El Nido",45,41606,41606
+"629","Region IV-B - Mimaropa","Palawan","Linapacan",99,15668,15668
+"630","Region IV-B - Mimaropa","Palawan","Magsaysay",250,12196,12196
+"631","Region IV-B - Mimaropa","Palawan","Narra",88,73212,73212
+"632","Region IV-B - Mimaropa","Palawan","Quezon",65,60980,60980
+"633","Region IV-B - Mimaropa","Palawan","Roxas",56,65358,65358
+"634","Region IV-B - Mimaropa","Palawan","San Vicente",21,31232,31232
+"635","Region IV-B - Mimaropa","Palawan","Taytay",60,75165,75165
+"636","Region IV-B - Mimaropa","Palawan","Kalayaan",1,184,184
+"637","Region IV-B - Mimaropa","Palawan","Culion",45,20139,20139
+"638","Region IV-B - Mimaropa","Palawan","Rizal (Marcos)",40,50096,50096
+"639","Region IV-B - Mimaropa","Palawan","Sofronio EspaÐola",64,32876,32876
+"640","Region IV-B - Mimaropa","Palawan","Puerto Princesa City (Capital)",107,255116,255116
+"641","Region IV-B - Mimaropa","Rombion","Alcantara",272,16351,16351
+"642","Region IV-B - Mimaropa","Rombion","Banton",170,5536,5536
+"643","Region IV-B - Mimaropa","Rombion","Cajidiocan",108,21861,21861
+"644","Region IV-B - Mimaropa","Rombion","Calatrava",119,10275,10275
+"645","Region IV-B - Mimaropa","Rombion","Concepcion",204,4037,4037
+"646","Region IV-B - Mimaropa","Rombion","Corcuera",360,10283,10283
+"647","Region IV-B - Mimaropa","Rombion","Looc",168,22262,22262
+"648","Region IV-B - Mimaropa","Rombion","Magdiwang",140,14142,14142
+"649","Region IV-B - Mimaropa","Rombion","Odiongan",244,45367,45367
+"650","Region IV-B - Mimaropa","Rombion","Romblon (Capital)",446,38758,38758
+"651","Region IV-B - Mimaropa","Rombion","San Agustin",161,22598,22598
+"652","Region IV-B - Mimaropa","Rombion","San Andres",139,15589,15589
+"653","Region IV-B - Mimaropa","Rombion","San Fernando",118,23271,23271
+"654","Region IV-B - Mimaropa","Rombion","San Jose",493,10881,10881
+"655","Region IV-B - Mimaropa","Rombion","Santa Fe",253,16098,16098
+"656","Region IV-B - Mimaropa","Rombion","Ferrol",223,6964,6964
+"657","Region IV-B - Mimaropa","Rombion","Santa Maria",219,8508,8508
+"658","Region V - Bicol","Albay","Bacacay",570,68906,68906
+"659","Region V - Bicol","Albay","Camalig",481,66904,66904
+"660","Region V - Bicol","Albay","Daraga",1065,126595,126595
+"661","Region V - Bicol","Albay","Guinobatan",476,82361,82361
+"662","Region V - Bicol","Albay","Jovellar",217,17308,17308
+"663","Region V - Bicol","Albay","Libon",315,75172,75172
+"664","Region V - Bicol","Albay","Malilipot",856,37785,37785
+"665","Region V - Bicol","Albay","Malinao",413,45301,45301
+"666","Region V - Bicol","Albay","Manito",230,24707,24707
+"667","Region V - Bicol","Albay","Oas",258,67960,67960
+"668","Region V - Bicol","Albay","Pio Duran",333,46693,46693
+"669","Region V - Bicol","Albay","Polangui",714,88221,88221
+"670","Region V - Bicol","Albay","Rapu-Rapu",239,36920,36920
+"671","Region V - Bicol","Albay","Santo Domingo (Libog)",717,34967,34967
+"672","Region V - Bicol","Albay","Tiwi",515,53120,53120
+"673","Region V - Bicol","Albay","Legazpi City (Capital)",1217,196639,196639
+"674","Region V - Bicol","Albay","City of Ligao",467,111399,111399
+"675","Region V - Bicol","Albay","City of Tabaco",1096,133868,133868
+"676","Region V - Bicol","Camarines Norte","Basud",155,41017,41017
+"677","Region V - Bicol","Camarines Norte","Capalonga",111,32215,32215
+"678","Region V - Bicol","Camarines Norte","Daet (Capital)",2098,104799,104799
+"679","Region V - Bicol","Camarines Norte","Jose Panganiban",278,59639,59639
+"680","Region V - Bicol","Camarines Norte","Labo",172,101082,101082
+"681","Region V - Bicol","Camarines Norte","Mercedes",435,50841,50841
+"682","Region V - Bicol","Camarines Norte","Paracale",400,59149,59149
+"683","Region V - Bicol","Camarines Norte","San Lorenzo Ruiz",118,14063,14063
+"684","Region V - Bicol","Camarines Norte","San Vicente",181,10396,10396
+"685","Region V - Bicol","Camarines Norte","Santa Elena",205,40786,40786
+"686","Region V - Bicol","Camarines Norte","Talisay",840,25841,25841
+"687","Region V - Bicol","Camarines Norte","Vinzons",438,43485,43485
+"688","Region V - Bicol","Camarines Sur","Baao",552,58849,58849
+"689","Region V - Bicol","Camarines Sur","Balatan",332,30922,30922
+"690","Region V - Bicol","Camarines Sur","Bato",487,52137,52137
+"691","Region V - Bicol","Camarines Sur","Bombon",575,16512,16512
+"692","Region V - Bicol","Camarines Sur","Buhi",381,77143,77143
+"693","Region V - Bicol","Camarines Sur","Bula",414,69430,69430
+"694","Region V - Bicol","Camarines Sur","Cabusao",393,18397,18397
+"695","Region V - Bicol","Camarines Sur","Calabanga",798,83033,83033
+"696","Region V - Bicol","Camarines Sur","Camaligan",5151,24109,24109
+"697","Region V - Bicol","Camarines Sur","Canaman",791,34210,34210
+"698","Region V - Bicol","Camarines Sur","Caramoan",172,47605,47605
+"699","Region V - Bicol","Camarines Sur","Del Gallego",122,25397,25397
+"700","Region V - Bicol","Camarines Sur","Gainza",764,11262,11262
+"701","Region V - Bicol","Camarines Sur","Garchitorena",95,27010,27010
+"702","Region V - Bicol","Camarines Sur","Goa",307,63308,63308
+"703","Region V - Bicol","Camarines Sur","Lagonoy",153,55465,55465
+"704","Region V - Bicol","Camarines Sur","Libmanan",302,108716,108716
+"705","Region V - Bicol","Camarines Sur","Lupi",184,32167,32167
+"706","Region V - Bicol","Camarines Sur","Magarao",571,25694,25694
+"707","Region V - Bicol","Camarines Sur","Milaor",906,31150,31150
+"708","Region V - Bicol","Camarines Sur","Minalabac",400,52390,52390
+"709","Region V - Bicol","Camarines Sur","Nabua",952,83874,83874
+"710","Region V - Bicol","Camarines Sur","Ocampo",388,45934,45934
+"711","Region V - Bicol","Camarines Sur","Pamplona",456,36390,36390
+"712","Region V - Bicol","Camarines Sur","Pasacao",333,49035,49035
+"713","Region V - Bicol","Camarines Sur","Pili (Capital)",652,89545,89545
+"714","Region V - Bicol","Camarines Sur","Presentacion ",118,20996,20996
+"715","Region V - Bicol","Camarines Sur","Ragay",135,58214,58214
+"716","Region V - Bicol","Camarines Sur","SagÐay",339,34546,34546
+"717","Region V - Bicol","Camarines Sur","San Fernando",426,35258,35258
+"718","Region V - Bicol","Camarines Sur","San Jose",846,40623,40623
+"719","Region V - Bicol","Camarines Sur","Sipocot",256,64855,64855
+"720","Region V - Bicol","Camarines Sur","Siruma",126,17764,17764
+"721","Region V - Bicol","Camarines Sur","Tigaon",764,55272,55272
+"722","Region V - Bicol","Camarines Sur","Tinambac",192,67572,67572
+"723","Region V - Bicol","Camarines Sur","Iriga City",699,111757,111757
+"724","Region V - Bicol","Camarines Sur","Naga City",2532,196003,196003
+"725","Region V - Bicol","Catanduanes","Bagamanoc",143,11551,11551
+"726","Region V - Bicol","Catanduanes","Baras",145,12848,12848
+"727","Region V - Bicol","Catanduanes","Bato",438,21279,21279
+"728","Region V - Bicol","Catanduanes","Caramoran",114,30056,30056
+"729","Region V - Bicol","Catanduanes","Gigmoto",70,8368,8368
+"730","Region V - Bicol","Catanduanes","Pandan",208,20516,20516
+"731","Region V - Bicol","Catanduanes","Panganiban",116,9287,9287
+"732","Region V - Bicol","Catanduanes","San Andres",220,36779,36779
+"733","Region V - Bicol","Catanduanes","San Miguel",115,15006,15006
+"734","Region V - Bicol","Catanduanes","Viga",137,21624,21624
+"735","Region V - Bicol","Catanduanes","Virac (Capital)",416,73650,73650
+"736","Region V - Bicol","Masbate","Aroroy",201,86168,86168
+"737","Region V - Bicol","Masbate","Baleno",128,26096,26096
+"738","Region V - Bicol","Masbate","Balud",165,38124,38124
+"739","Region V - Bicol","Masbate","Batuan",268,15086,15086
+"740","Region V - Bicol","Masbate","Cataingan",263,50327,50327
+"741","Region V - Bicol","Masbate","Cawayan",258,67033,67033
+"742","Region V - Bicol","Masbate","Claveria",239,43693,43693
+"743","Region V - Bicol","Masbate","Dimasalang",397,26192,26192
+"744","Region V - Bicol","Masbate","Esperanza",275,18568,18568
+"745","Region V - Bicol","Masbate","Mandaon",129,41262,41262
+"746","Region V - Bicol","Masbate","Milagros",113,57473,57473
+"747","Region V - Bicol","Masbate","Mobo",271,38813,38813
+"748","Region V - Bicol","Masbate","Monreal",311,26614,26614
+"749","Region V - Bicol","Masbate","Palanas",219,26222,26222
+"750","Region V - Bicol","Masbate","Pio V. Corpuz",260,23236,23236
+"751","Region V - Bicol","Masbate","Placer",289,55826,55826
+"752","Region V - Bicol","Masbate","San Fernando",298,23057,23057
+"753","Region V - Bicol","Masbate","San Jacinto",280,30372,30372
+"754","Region V - Bicol","Masbate","San Pascual",189,46674,46674
+"755","Region V - Bicol","Masbate","Uson",203,56168,56168
+"756","Region V - Bicol","Masbate","City of Masbate (Capital)",507,95389,95389
+"757","Region V - Bicol","Sorsogon","Barcelona",343,20990,20990
+"758","Region V - Bicol","Sorsogon","Bulan",508,100076,100076
+"759","Region V - Bicol","Sorsogon","Bulusan",238,22884,22884
+"760","Region V - Bicol","Sorsogon","Casiguran",377,32842,32842
+"761","Region V - Bicol","Sorsogon","Castilla",300,57827,57827
+"762","Region V - Bicol","Sorsogon","Donsol",331,49711,49711
+"763","Region V - Bicol","Sorsogon","Gubat",518,59534,59534
+"764","Region V - Bicol","Sorsogon","Irosin",378,56662,56662
+"765","Region V - Bicol","Sorsogon","Juban",266,32320,32320
+"766","Region V - Bicol","Sorsogon","Magallanes",247,37038,37038
+"767","Region V - Bicol","Sorsogon","Matnog",253,41101,41101
+"768","Region V - Bicol","Sorsogon","Pilar",353,74564,74564
+"769","Region V - Bicol","Sorsogon","Prieto Diaz",425,22442,22442
+"770","Region V - Bicol","Sorsogon","Santa Magdalena",387,16848,16848
+"771","Region V - Bicol","Sorsogon","City of Sorsogon (Capital)",611,168110,168110
+"772","Region VI - Western Visayas","Aklan","Altavas",226,24619,24619
+"773","Region VI - Western Visayas","Aklan","Balete",243,28920,28920
+"774","Region VI - Western Visayas","Aklan","Banga",467,39505,39505
+"775","Region VI - Western Visayas","Aklan","Batan",364,32032,32032
+"776","Region VI - Western Visayas","Aklan","Buruanga",337,19003,19003
+"777","Region VI - Western Visayas","Aklan","Ibajay",312,49564,49564
+"778","Region VI - Western Visayas","Aklan","Kalibo (Capital)",2050,80605,80605
+"779","Region VI - Western Visayas","Aklan","Lezo",710,15224,15224
+"780","Region VI - Western Visayas","Aklan","Libacao",111,28241,28241
+"781","Region VI - Western Visayas","Aklan","Madalag",68,18389,18389
+"782","Region VI - Western Visayas","Aklan","Makato",264,27262,27262
+"783","Region VI - Western Visayas","Aklan","Malay",802,52973,52973
+"784","Region VI - Western Visayas","Aklan","Malinao",125,23194,23194
+"785","Region VI - Western Visayas","Aklan","Nabas",376,36435,36435
+"786","Region VI - Western Visayas","Aklan","New Washington",675,45007,45007
+"787","Region VI - Western Visayas","Aklan","Numancia",1107,31934,31934
+"788","Region VI - Western Visayas","Aklan","Tangalan",353,21916,21916
+"789","Region VI - Western Visayas","Antique","Anini-y",434,21201,21201
+"790","Region VI - Western Visayas","Antique","Barbaza",147,22704,22704
+"791","Region VI - Western Visayas","Antique","Belison",668,13539,13539
+"792","Region VI - Western Visayas","Antique","Bugasong",165,33642,33642
+"793","Region VI - Western Visayas","Antique","Caluya",259,35496,35496
+"794","Region VI - Western Visayas","Antique","Culasi",180,41228,41228
+"795","Region VI - Western Visayas","Antique","Tobias Fornier ",295,33046,33046
+"796","Region VI - Western Visayas","Antique","Hamtic",391,48592,48592
+"797","Region VI - Western Visayas","Antique","Laua-an",259,26072,26072
+"798","Region VI - Western Visayas","Antique","Libertad",169,16429,16429
+"799","Region VI - Western Visayas","Antique","Pandan",210,34333,34333
+"800","Region VI - Western Visayas","Antique","Patnongon",221,37176,37176
+"801","Region VI - Western Visayas","Antique","San Jose (Capital)",1288,62534,62534
+"802","Region VI - Western Visayas","Antique","San Remigio",78,31935,31935
+"803","Region VI - Western Visayas","Antique","Sebaste",160,17907,17907
+"804","Region VI - Western Visayas","Antique","Sibalom",290,60306,60306
+"805","Region VI - Western Visayas","Antique","Tibiao",151,26748,26748
+"806","Region VI - Western Visayas","Antique","Valderrama",66,19124,19124
+"807","Region VI - Western Visayas","Capiz","Cuartero",264,27408,27408
+"808","Region VI - Western Visayas","Capiz","Dao",368,32496,32496
+"809","Region VI - Western Visayas","Capiz","Dumalag",270,29466,29466
+"810","Region VI - Western Visayas","Capiz","Dumarao",198,46157,46157
+"811","Region VI - Western Visayas","Capiz","Ivisan",536,29055,29055
+"812","Region VI - Western Visayas","Capiz","Jamindan",89,36677,36677
+"813","Region VI - Western Visayas","Capiz","Ma-ayon",270,38416,38416
+"814","Region VI - Western Visayas","Capiz","Mambusao",290,39644,39644
+"815","Region VI - Western Visayas","Capiz","Panay",396,46114,46114
+"816","Region VI - Western Visayas","Capiz","Panitan",448,40289,40289
+"817","Region VI - Western Visayas","Capiz","Pilar",581,45287,45287
+"818","Region VI - Western Visayas","Capiz","Pontevedra",355,46428,46428
+"819","Region VI - Western Visayas","Capiz","President Roxas",381,29676,29676
+"820","Region VI - Western Visayas","Capiz","Sapi-an",266,25821,25821
+"821","Region VI - Western Visayas","Capiz","Sigma",296,30134,30134
+"822","Region VI - Western Visayas","Capiz","Tapaz",99,51313,51313
+"823","Region VI - Western Visayas","Capiz","Roxas City (Capital)",1584,167003,167003
+"824","Region VI - Western Visayas","Guimaras","Buenavista",436,50437,50437
+"825","Region VI - Western Visayas","Guimaras","Jordan (Capital)",314,36096,36096
+"826","Region VI - Western Visayas","Guimaras","Nueva Valencia",290,39810,39810
+"827","Region VI - Western Visayas","Guimaras","San Lorenzo",246,26112,26112
+"828","Region VI - Western Visayas","Guimaras","Sibunag",175,22158,22158
+"829","Region VI - Western Visayas","Iloilo","Ajuy",298,52268,52268
+"830","Region VI - Western Visayas","Iloilo","Alimodian",265,38408,38408
+"831","Region VI - Western Visayas","Iloilo","Anilao",337,28684,28684
+"832","Region VI - Western Visayas","Iloilo","Badiangan",431,27005,27005
+"833","Region VI - Western Visayas","Iloilo","Balasan",610,33088,33088
+"834","Region VI - Western Visayas","Iloilo","Banate",443,32532,32532
+"835","Region VI - Western Visayas","Iloilo","Barotac Nuevo",573,54146,54146
+"836","Region VI - Western Visayas","Iloilo","Barotac Viejo",247,45808,45808
+"837","Region VI - Western Visayas","Iloilo","Batad",401,21298,21298
+"838","Region VI - Western Visayas","Iloilo","Bingawan",329,15199,15199
+"839","Region VI - Western Visayas","Iloilo","Cabatuan",518,58442,58442
+"840","Region VI - Western Visayas","Iloilo","Calinog",221,60413,60413
+"841","Region VI - Western Visayas","Iloilo","Carles",655,68160,68160
+"842","Region VI - Western Visayas","Iloilo","Concepcion",501,43159,43159
+"843","Region VI - Western Visayas","Iloilo","Dingle",461,45335,45335
+"844","Region VI - Western Visayas","Iloilo","DueÐas",378,34242,34242
+"845","Region VI - Western Visayas","Iloilo","Dumangas",537,69108,69108
+"846","Region VI - Western Visayas","Iloilo","Estancia",1652,48546,48546
+"847","Region VI - Western Visayas","Iloilo","Guimbal",758,33820,33820
+"848","Region VI - Western Visayas","Iloilo","Igbaras",215,32004,32004
+"849","Region VI - Western Visayas","Iloilo","Janiuay",367,63905,63905
+"850","Region VI - Western Visayas","Iloilo","Lambunao",295,73640,73640
+"851","Region VI - Western Visayas","Iloilo","Leganes",993,32480,32480
+"852","Region VI - Western Visayas","Iloilo","Lemery",224,30851,30851
+"853","Region VI - Western Visayas","Iloilo","Leon",304,49875,49875
+"854","Region VI - Western Visayas","Iloilo","Maasin",207,36922,36922
+"855","Region VI - Western Visayas","Iloilo","Miagao",439,67565,67565
+"856","Region VI - Western Visayas","Iloilo","Mina",623,23546,23546
+"857","Region VI - Western Visayas","Iloilo","New Lucena",576,23240,23240
+"858","Region VI - Western Visayas","Iloilo","Oton",1031,89115,89115
+"859","Region VI - Western Visayas","Iloilo","Pavia",2050,55603,55603
+"860","Region VI - Western Visayas","Iloilo","Pototan",773,75070,75070
+"861","Region VI - Western Visayas","Iloilo","San Dionisio",305,38775,38775
+"862","Region VI - Western Visayas","Iloilo","San Enrique",289,33911,33911
+"863","Region VI - Western Visayas","Iloilo","San Joaquin",221,51892,51892
+"864","Region VI - Western Visayas","Iloilo","San Miguel",866,27686,27686
+"865","Region VI - Western Visayas","Iloilo","San Rafael",244,16532,16532
+"866","Region VI - Western Visayas","Iloilo","Santa Barbara",871,60215,60215
+"867","Region VI - Western Visayas","Iloilo","Sara",303,52631,52631
+"868","Region VI - Western Visayas","Iloilo","Tigbauan",749,62706,62706
+"869","Region VI - Western Visayas","Iloilo","Tubungan",264,22449,22449
+"870","Region VI - Western Visayas","Iloilo","Zarraga",667,25605,25605
+"871","Region VI - Western Visayas","Iloilo","City of Passi",332,80544,80544
+"872","Region VI - Western Visayas","Iloilo","Iloilo City (Capital)",5719,447992,447992
+"873","Region VII - Central Visayas","Bohol","Alburquerque",391,10540,10540
+"874","Region VII - Central Visayas","Bohol","Alicia",253,23517,23517
+"875","Region VII - Central Visayas","Bohol","Anda",266,16462,16462
+"876","Region VII - Central Visayas","Bohol","Antequera",217,14425,14425
+"877","Region VII - Central Visayas","Bohol","Baclayon",579,20591,20591
+"878","Region VII - Central Visayas","Bohol","Balilihan",141,17903,17903
+"879","Region VII - Central Visayas","Bohol","Batuan",164,12767,12767
+"880","Region VII - Central Visayas","Bohol","Bien Unido",990,27115,27115
+"881","Region VII - Central Visayas","Bohol","Bilar",136,17590,17590
+"882","Region VII - Central Visayas","Bohol","Buenavista",284,27261,27261
+"883","Region VII - Central Visayas","Bohol","Calape",410,30863,30863
+"884","Region VII - Central Visayas","Bohol","Candijay",285,29475,29475
+"885","Region VII - Central Visayas","Bohol","Carmen",210,46306,46306
+"886","Region VII - Central Visayas","Bohol","Catigbian",200,22675,22675
+"887","Region VII - Central Visayas","Bohol","Clarin",390,20301,20301
+"888","Region VII - Central Visayas","Bohol","Corella",228,8479,8479
+"889","Region VII - Central Visayas","Bohol","Cortes",509,16954,16954
+"890","Region VII - Central Visayas","Bohol","Dagohoy",198,19158,19158
+"891","Region VII - Central Visayas","Bohol","Danao",87,17890,17890
+"892","Region VII - Central Visayas","Bohol","Dauis",1054,45663,45663
+"893","Region VII - Central Visayas","Bohol","Dimiao",252,14364,14364
+"894","Region VII - Central Visayas","Bohol","Duero",184,17876,17876
+"895","Region VII - Central Visayas","Bohol","Garcia Hernandez",286,24194,24194
+"896","Region VII - Central Visayas","Bohol","Guindulman",258,32408,32408
+"897","Region VII - Central Visayas","Bohol","Inabanga",272,45880,45880
+"898","Region VII - Central Visayas","Bohol","Jagna",355,33892,33892
+"899","Region VII - Central Visayas","Bohol","Jetafe",173,30955,30955
+"900","Region VII - Central Visayas","Bohol","Lila",303,12257,12257
+"901","Region VII - Central Visayas","Bohol","Loay",346,16691,16691
+"902","Region VII - Central Visayas","Bohol","Loboc",277,15993,15993
+"903","Region VII - Central Visayas","Bohol","Loon",426,43034,43034
+"904","Region VII - Central Visayas","Bohol","Mabini",260,27171,27171
+"905","Region VII - Central Visayas","Bohol","Maribojoc",419,20688,20688
+"906","Region VII - Central Visayas","Bohol","Panglao",702,33553,33553
+"907","Region VII - Central Visayas","Bohol","Pilar",226,27256,27256
+"908","Region VII - Central Visayas","Bohol","Pres. Carlos P. Garcia",500,23356,23356
+"909","Region VII - Central Visayas","Bohol","Sagbayan ",321,22339,22339
+"910","Region VII - Central Visayas","Bohol","San Isidro",146,8744,8744
+"911","Region VII - Central Visayas","Bohol","San Miguel",196,24135,24135
+"912","Region VII - Central Visayas","Bohol","Sevilla",91,10661,10661
+"913","Region VII - Central Visayas","Bohol","Sierra Bullones",237,24745,24745
+"914","Region VII - Central Visayas","Bohol","Sikatuna",176,6726,6726
+"915","Region VII - Central Visayas","Bohol","Talibon",477,66969,66969
+"916","Region VII - Central Visayas","Bohol","Trinidad",164,31956,31956
+"917","Region VII - Central Visayas","Bohol","Tubigon",561,45893,45893
+"918","Region VII - Central Visayas","Bohol","Ubay",220,73712,73712
+"919","Region VII - Central Visayas","Bohol","Valencia",244,27126,27126
+"920","Region VII - Central Visayas","Bohol","Tagbilaran City (Capital)",3230,105051,105051
+"921","Region VII - Central Visayas","Cebu","Alcantara",431,15160,15160
+"922","Region VII - Central Visayas","Cebu","Alcoy",275,16979,16979
+"923","Region VII - Central Visayas","Cebu","Alegria",260,23300,23300
+"924","Region VII - Central Visayas","Cebu","Aloguinsan",518,32100,32100
+"925","Region VII - Central Visayas","Cebu","Argao",367,72366,72366
+"926","Region VII - Central Visayas","Cebu","Asturias",251,47857,47857
+"927","Region VII - Central Visayas","Cebu","Badian",344,37912,37912
+"928","Region VII - Central Visayas","Cebu","Balamban",261,87177,87177
+"929","Region VII - Central Visayas","Cebu","Bantayan",977,79084,79084
+"930","Region VII - Central Visayas","Cebu","Barili",604,73862,73862
+"931","Region VII - Central Visayas","Cebu","Boljoon",140,16344,16344
+"932","Region VII - Central Visayas","Cebu","Borbon",294,35526,35526
+"933","Region VII - Central Visayas","Cebu","Carmen",605,51325,51325
+"934","Region VII - Central Visayas","Cebu","Catmon",278,30471,30471
+"935","Region VII - Central Visayas","Cebu","Compostela",990,47898,47898
+"936","Region VII - Central Visayas","Cebu","Consolacion",894,131528,131528
+"937","Region VII - Central Visayas","Cebu","Cordova",6246,59712,59712
+"938","Region VII - Central Visayas","Cebu","Daanbantayan",905,84430,84430
+"939","Region VII - Central Visayas","Cebu","Dalaguete",414,67497,67497
+"940","Region VII - Central Visayas","Cebu","Dumanjug",599,51210,51210
+"941","Region VII - Central Visayas","Cebu","Ginatilan",227,15919,15919
+"942","Region VII - Central Visayas","Cebu","Liloan",2586,118753,118753
+"943","Region VII - Central Visayas","Cebu","Madridejos",1491,36429,36429
+"944","Region VII - Central Visayas","Cebu","Malabuyoc",280,19373,19373
+"945","Region VII - Central Visayas","Cebu","Medellin",756,55332,55332
+"946","Region VII - Central Visayas","Cebu","Minglanilla",2566,132135,132135
+"947","Region VII - Central Visayas","Cebu","Moalboal",249,31130,31130
+"948","Region VII - Central Visayas","Cebu","Oslob",207,27893,27893
+"949","Region VII - Central Visayas","Cebu","Pilar",349,11308,11308
+"950","Region VII - Central Visayas","Cebu","Pinamungahan",611,65955,65955
+"951","Region VII - Central Visayas","Cebu","Poro",396,25212,25212
+"952","Region VII - Central Visayas","Cebu","Ronda",357,20360,20360
+"953","Region VII - Central Visayas","Cebu","Samboan",462,20884,20884
+"954","Region VII - Central Visayas","Cebu","San Fernando",955,66280,66280
+"955","Region VII - Central Visayas","Cebu","San Francisco",516,55180,55180
+"956","Region VII - Central Visayas","Cebu","San Remigio",604,57557,57557
+"957","Region VII - Central Visayas","Cebu","Santa Fe",1020,28603,28603
+"958","Region VII - Central Visayas","Cebu","Santander",605,17857,17857
+"959","Region VII - Central Visayas","Cebu","Sibonga",497,48186,48186
+"960","Region VII - Central Visayas","Cebu","Sogod",294,35108,35108
+"961","Region VII - Central Visayas","Cebu","Tabogon",385,39013,39013
+"962","Region VII - Central Visayas","Cebu","Tabuelan",276,25630,25630
+"963","Region VII - Central Visayas","Cebu","Tuburan",269,63866,63866
+"964","Region VII - Central Visayas","Cebu","Tudela",342,11296,11296
+"965","Region VII - Central Visayas","Cebu","City of Bogo",755,78120,78120
+"966","Region VII - Central Visayas","Cebu","City of Carcar",1023,119664,119664
+"967","Region VII - Central Visayas","Cebu","Danao City",1272,136471,136471
+"968","Region VII - Central Visayas","Cebu","City of Naga",1135,115750,115750
+"969","Region VII - Central Visayas","Cebu","City of Talisay",5535,227645,227645
+"970","Region VII - Central Visayas","Cebu","Toledo City",788,170335,170335
+"971","Region VII - Central Visayas","Cebu","Mandaue City",14402,362654,362654
+"972","Region VII - Central Visayas","Cebu","Cebu City (Capital)",3148,922611,922611
+"973","Region VII - Central Visayas","Cebu","Lapu-lapu City",7024,408112,408112
+"974","Region VII - Central Visayas","Siquijor","Enrique Villanueva",240,6104,6104
+"975","Region VII - Central Visayas","Siquijor","Larena",331,13847,13847
+"976","Region VII - Central Visayas","Siquijor","Lazi",310,20490,20490
+"977","Region VII - Central Visayas","Siquijor","Maria",258,13828,13828
+"978","Region VII - Central Visayas","Siquijor","San Juan",335,14854,14854
+"979","Region VII - Central Visayas","Siquijor","Siquijor (Capital)",312,26861,26861
+"980","Negros Island Region (NIR)","Negros Occidental","Binalbagan",324,67270,67270
+"981","Negros Island Region (NIR)","Negros Occidental","Calatrava",250,80624,80624
+"982","Negros Island Region (NIR)","Negros Occidental","Candoni",99,21789,21789
+"983","Negros Island Region (NIR)","Negros Occidental","Cauayan",208,102165,102165
+"984","Negros Island Region (NIR)","Negros Occidental","Enrique B. Magalona ",429,62921,62921
+"985","Negros Island Region (NIR)","Negros Occidental","Hinigaran",554,85602,85602
+"986","Negros Island Region (NIR)","Negros Occidental","Hinoba-an ",141,56819,56819
+"987","Negros Island Region (NIR)","Negros Occidental","Ilog",178,57389,57389
+"988","Negros Island Region (NIR)","Negros Occidental","Isabela",326,62146,62146
+"989","Negros Island Region (NIR)","Negros Occidental","La Castellana",409,74855,74855
+"990","Negros Island Region (NIR)","Negros Occidental","Manapla",565,54845,54845
+"991","Negros Island Region (NIR)","Negros Occidental","Moises Padilla",296,41386,41386
+"992","Negros Island Region (NIR)","Negros Occidental","Murcia",279,81286,81286
+"993","Negros Island Region (NIR)","Negros Occidental","Pontevedra",467,51866,51866
+"994","Negros Island Region (NIR)","Negros Occidental","Pulupandan",1500,27735,27735
+"995","Negros Island Region (NIR)","Negros Occidental","San Enrique",855,23907,23907
+"996","Negros Island Region (NIR)","Negros Occidental","Toboso",347,42114,42114
+"997","Negros Island Region (NIR)","Negros Occidental","Valladolid",950,37833,37833
+"998","Negros Island Region (NIR)","Negros Occidental","Salvador Benedicto",150,25662,25662
+"999","Negros Island Region (NIR)","Negros Occidental","Bago City",460,170981,170981
+"1000","Negros Island Region (NIR)","Negros Occidental","Cadiz City",299,154723,154723
+"1001","Negros Island Region (NIR)","Negros Occidental","City of Escalante",499,94070,94070
+"1002","Negros Island Region (NIR)","Negros Occidental","City of Himamaylan",279,106880,106880
+"1003","Negros Island Region (NIR)","Negros Occidental","City of Kabankalan",260,181977,181977
+"1004","Negros Island Region (NIR)","Negros Occidental","La Carlota City",495,64469,64469
+"1005","Negros Island Region (NIR)","Negros Occidental","Sagay City",480,146264,146264
+"1006","Negros Island Region (NIR)","Negros Occidental","San Carlos City",312,132536,132536
+"1007","Negros Island Region (NIR)","Negros Occidental","Silay City",576,126930,126930
+"1008","Negros Island Region (NIR)","Negros Occidental","City of Sipalay",184,70070,70070
+"1009","Negros Island Region (NIR)","Negros Occidental","City of Talisay",487,102214,102214
+"1010","Negros Island Region (NIR)","Negros Occidental","City of Victorias",720,87933,87933
+"1011","Negros Island Region (NIR)","Negros Occidental","Bacolod City (Capital)",3496,561875,561875
+"1012","Negros Island Region (NIR)","Negros Oriental","Amlan ",362,23624,23624
+"1013","Negros Island Region (NIR)","Negros Oriental","Ayungon",175,46303,46303
+"1014","Negros Island Region (NIR)","Negros Oriental","Bacong",888,36527,36527
+"1015","Negros Island Region (NIR)","Negros Oriental","Basay",164,26566,26566
+"1016","Negros Island Region (NIR)","Negros Oriental","Bindoy ",229,39819,39819
+"1017","Negros Island Region (NIR)","Negros Oriental","Dauin",250,27786,27786
+"1018","Negros Island Region (NIR)","Negros Oriental","Jimalalud",207,30945,30945
+"1019","Negros Island Region (NIR)","Negros Oriental","La Libertad",221,38602,38602
+"1020","Negros Island Region (NIR)","Negros Oriental","Mabinay",193,78864,78864
+"1021","Negros Island Region (NIR)","Negros Oriental","Manjuyod",230,42332,42332
+"1022","Negros Island Region (NIR)","Negros Oriental","Pamplona",181,37596,37596
+"1023","Negros Island Region (NIR)","Negros Oriental","San Jose",403,20413,20413
+"1024","Negros Island Region (NIR)","Negros Oriental","Santa Catalina",189,75756,75756
+"1025","Negros Island Region (NIR)","Negros Oriental","Siaton",192,77696,77696
+"1026","Negros Island Region (NIR)","Negros Oriental","Sibulan",393,59455,59455
+"1027","Negros Island Region (NIR)","Negros Oriental","Tayasan",196,35470,35470
+"1028","Negros Island Region (NIR)","Negros Oriental","Valencia ",179,34852,34852
+"1029","Negros Island Region (NIR)","Negros Oriental","Vallehermoso",378,38259,38259
+"1030","Negros Island Region (NIR)","Negros Oriental","Zamboanguita",207,27552,27552
+"1031","Negros Island Region (NIR)","Negros Oriental","Bais City",300,76291,76291
+"1032","Negros Island Region (NIR)","Negros Oriental","City of Bayawan",168,117900,117900
+"1033","Negros Island Region (NIR)","Negros Oriental","Canlaon City",319,54509,54509
+"1034","Negros Island Region (NIR)","Negros Oriental","Dumaguete City (Capital)",3817,131377,131377
+"1035","Negros Island Region (NIR)","Negros Oriental","City of Guihulngan",247,95969,95969
+"1036","Negros Island Region (NIR)","Negros Oriental","City of Tanjay",298,80532,80532
+"1037","Region VIII - Eastern Visayas","Biliran","Almeria",295,16951,16951
+"1038","Region VIII - Eastern Visayas","Biliran","Biliran",240,16882,16882
+"1039","Region VIII - Eastern Visayas","Biliran","Cabucgayan",384,20788,20788
+"1040","Region VIII - Eastern Visayas","Biliran","Caibiran",270,22524,22524
+"1041","Region VIII - Eastern Visayas","Biliran","Culaba",168,12325,12325
+"1042","Region VIII - Eastern Visayas","Biliran","Kawayan",333,20291,20291
+"1043","Region VIII - Eastern Visayas","Biliran","Maripipi",257,7159,7159
+"1044","Region VIII - Eastern Visayas","Biliran","Naval (Capital)",505,54692,54692
+"1045","Region VIII - Eastern Visayas","Eastern Samar","Arteche",115,16026,16026
+"1046","Region VIII - Eastern Visayas","Eastern Samar","Balangiga",74,14085,14085
+"1047","Region VIII - Eastern Visayas","Eastern Samar","Balangkayan",49,10125,10125
+"1048","Region VIII - Eastern Visayas","Eastern Samar","Can-avid",74,21015,21015
+"1049","Region VIII - Eastern Visayas","Eastern Samar","Dolores",133,42866,42866
+"1050","Region VIII - Eastern Visayas","Eastern Samar","General Macarthur",124,14550,14550
+"1051","Region VIII - Eastern Visayas","Eastern Samar","Giporlos",136,13308,13308
+"1052","Region VIII - Eastern Visayas","Eastern Samar","Guiuan",302,52991,52991
+"1053","Region VIII - Eastern Visayas","Eastern Samar","Hernani",200,8573,8573
+"1054","Region VIII - Eastern Visayas","Eastern Samar","Jipapad",41,7885,7885
+"1055","Region VIII - Eastern Visayas","Eastern Samar","Lawaan",75,12742,12742
+"1056","Region VIII - Eastern Visayas","Eastern Samar","Llorente",41,20149,20149
+"1057","Region VIII - Eastern Visayas","Eastern Samar","Maslog",18,5407,5407
+"1058","Region VIII - Eastern Visayas","Eastern Samar","Maydolong",37,14743,14743
+"1059","Region VIII - Eastern Visayas","Eastern Samar","Mercedes",260,6070,6070
+"1060","Region VIII - Eastern Visayas","Eastern Samar","Oras",170,36540,36540
+"1061","Region VIII - Eastern Visayas","Eastern Samar","Quinapondan",178,14779,14779
+"1062","Region VIII - Eastern Visayas","Eastern Samar","Salcedo",194,22532,22532
+"1063","Region VIII - Eastern Visayas","Eastern Samar","San Julian",96,14498,14498
+"1064","Region VIII - Eastern Visayas","Eastern Samar","San Policarpo",224,14687,14687
+"1065","Region VIII - Eastern Visayas","Eastern Samar","Sulat",91,15377,15377
+"1066","Region VIII - Eastern Visayas","Eastern Samar","Taft",82,18915,18915
+"1067","Region VIII - Eastern Visayas","Eastern Samar","City of Borongan (Capital)",147,69297,69297
+"1068","Region VIII - Eastern Visayas","Leyte","Abuyog",196,59571,59571
+"1069","Region VIII - Eastern Visayas","Leyte","Alangalang",610,55235,55235
+"1070","Region VIII - Eastern Visayas","Leyte","Albuera",153,46332,46332
+"1071","Region VIII - Eastern Visayas","Leyte","Babatngon",241,27797,27797
+"1072","Region VIII - Eastern Visayas","Leyte","Barugo",387,32745,32745
+"1073","Region VIII - Eastern Visayas","Leyte","Bato",529,38356,38356
+"1074","Region VIII - Eastern Visayas","Leyte","Burauen",166,52732,52732
+"1075","Region VIII - Eastern Visayas","Leyte","Calubian",309,31228,31228
+"1076","Region VIII - Eastern Visayas","Leyte","Capoocan",232,33617,33617
+"1077","Region VIII - Eastern Visayas","Leyte","Carigara",436,51345,51345
+"1078","Region VIII - Eastern Visayas","Leyte","Dagami",217,35147,35147
+"1079","Region VIII - Eastern Visayas","Leyte","Dulag",586,47300,47300
+"1080","Region VIII - Eastern Visayas","Leyte","Hilongos",329,63431,63431
+"1081","Region VIII - Eastern Visayas","Leyte","Hindang",363,20924,20924
+"1082","Region VIII - Eastern Visayas","Leyte","Inopacan",188,20550,20550
+"1083","Region VIII - Eastern Visayas","Leyte","Isabel",733,46915,46915
+"1084","Region VIII - Eastern Visayas","Leyte","Jaro",207,43199,43199
+"1085","Region VIII - Eastern Visayas","Leyte","Javier ",184,25379,25379
+"1086","Region VIII - Eastern Visayas","Leyte","Julita",284,15114,15114
+"1087","Region VIII - Eastern Visayas","Leyte","Kananga",392,56575,56575
+"1088","Region VIII - Eastern Visayas","Leyte","La Paz",198,19998,19998
+"1089","Region VIII - Eastern Visayas","Leyte","Leyte",224,40639,40639
+"1090","Region VIII - Eastern Visayas","Leyte","Macarthur",368,21211,21211
+"1091","Region VIII - Eastern Visayas","Leyte","Mahaplag",266,27823,27823
+"1092","Region VIII - Eastern Visayas","Leyte","Matag-ob",176,18373,18373
+"1093","Region VIII - Eastern Visayas","Leyte","Matalom",251,33121,33121
+"1094","Region VIII - Eastern Visayas","Leyte","Mayorga",407,17161,17161
+"1095","Region VIII - Eastern Visayas","Leyte","Merida",314,29863,29863
+"1096","Region VIII - Eastern Visayas","Leyte","Palo",317,70052,70052
+"1097","Region VIII - Eastern Visayas","Leyte","Palompon",461,58108,58108
+"1098","Region VIII - Eastern Visayas","Leyte","Pastrana",208,18002,18002
+"1099","Region VIII - Eastern Visayas","Leyte","San Isidro",258,31641,31641
+"1100","Region VIII - Eastern Visayas","Leyte","San Miguel",134,19420,19420
+"1101","Region VIII - Eastern Visayas","Leyte","Santa Fe",379,20439,20439
+"1102","Region VIII - Eastern Visayas","Leyte","Tabango",354,34195,34195
+"1103","Region VIII - Eastern Visayas","Leyte","Tabontabon",463,11204,11204
+"1104","Region VIII - Eastern Visayas","Leyte","Tanauan",702,55021,55021
+"1105","Region VIII - Eastern Visayas","Leyte","Tolosa",966,20978,20978
+"1106","Region VIII - Eastern Visayas","Leyte","Tunga",985,7584,7584
+"1107","Region VIII - Eastern Visayas","Leyte","Villaba",279,41891,41891
+"1108","Region VIII - Eastern Visayas","Leyte","City of Baybay",271,109432,109432
+"1109","Region VIII - Eastern Visayas","Leyte","Ormoc City",463,215031,215031
+"1110","Region VIII - Eastern Visayas","Leyte","Tacloban City (Capital)",2346,242089,242089
+"1111","Region VIII - Eastern Visayas","Northern Samar","Allen",535,25469,25469
+"1112","Region VIII - Eastern Visayas","Northern Samar","Biri",473,11767,11767
+"1113","Region VIII - Eastern Visayas","Northern Samar","Bobon",182,23668,23668
+"1114","Region VIII - Eastern Visayas","Northern Samar","Capul",38,12679,12679
+"1115","Region VIII - Eastern Visayas","Northern Samar","Catarman (Capital)",414,94037,94037
+"1116","Region VIII - Eastern Visayas","Northern Samar","Catubig",152,33025,33025
+"1117","Region VIII - Eastern Visayas","Northern Samar","Gamay",204,23511,23511
+"1118","Region VIII - Eastern Visayas","Northern Samar","Laoang",248,61359,61359
+"1119","Region VIII - Eastern Visayas","Northern Samar","Lapinig",227,13020,13020
+"1120","Region VIII - Eastern Visayas","Northern Samar","Las Navas",109,37947,37947
+"1121","Region VIII - Eastern Visayas","Northern Samar","Lavezares",538,28770,28770
+"1122","Region VIII - Eastern Visayas","Northern Samar","Lope de Vega",45,14687,14687
+"1123","Region VIII - Eastern Visayas","Northern Samar","Mapanas",119,14025,14025
+"1124","Region VIII - Eastern Visayas","Northern Samar","Mondragon",123,38726,38726
+"1125","Region VIII - Eastern Visayas","Northern Samar","Palapag",228,34286,34286
+"1126","Region VIII - Eastern Visayas","Northern Samar","Pambujan",202,33062,33062
+"1127","Region VIII - Eastern Visayas","Northern Samar","Rosario",142,10520,10520
+"1128","Region VIII - Eastern Visayas","Northern Samar","San Antonio",325,9058,9058
+"1129","Region VIII - Eastern Visayas","Northern Samar","San Isidro",137,26650,26650
+"1130","Region VIII - Eastern Visayas","Northern Samar","San Jose",260,17561,17561
+"1131","Region VIII - Eastern Visayas","Northern Samar","San Roque",200,30580,30580
+"1132","Region VIII - Eastern Visayas","Northern Samar","San Vicente",497,7856,7856
+"1133","Region VIII - Eastern Visayas","Northern Samar","Silvino Lobos",83,15299,15299
+"1134","Region VIII - Eastern Visayas","Northern Samar","Victoria",79,14817,14817
+"1135","Region VIII - Eastern Visayas","Samar (Western Samar)","Almagro",376,8942,8942
+"1136","Region VIII - Eastern Visayas","Samar (Western Samar)","Basey",108,55480,55480
+"1137","Region VIII - Eastern Visayas","Samar (Western Samar)","Calbiga",112,22982,22982
+"1138","Region VIII - Eastern Visayas","Samar (Western Samar)","Daram",306,42879,42879
+"1139","Region VIII - Eastern Visayas","Samar (Western Samar)","Gandara",107,34434,34434
+"1140","Region VIII - Eastern Visayas","Samar (Western Samar)","Hinabangan",30,13673,13673
+"1141","Region VIII - Eastern Visayas","Samar (Western Samar)","Jiabong",179,18342,18342
+"1142","Region VIII - Eastern Visayas","Samar (Western Samar)","Marabut",118,16962,16962
+"1143","Region VIII - Eastern Visayas","Samar (Western Samar)","Matuguinao",42,7288,7288
+"1144","Region VIII - Eastern Visayas","Samar (Western Samar)","Motiong",134,15156,15156
+"1145","Region VIII - Eastern Visayas","Samar (Western Samar)","Pinabacdao",97,18252,18252
+"1146","Region VIII - Eastern Visayas","Samar (Western Samar)","San Jose de Buan",22,7769,7769
+"1147","Region VIII - Eastern Visayas","Samar (Western Samar)","San Sebastian",193,8057,8057
+"1148","Region VIII - Eastern Visayas","Samar (Western Samar)","Santa Margarita",204,26348,26348
+"1149","Region VIII - Eastern Visayas","Samar (Western Samar)","Santa Rita",75,41591,41591
+"1150","Region VIII - Eastern Visayas","Samar (Western Samar)","Santo NiÐo",436,12863,12863
+"1151","Region VIII - Eastern Visayas","Samar (Western Samar)","Talalora",288,8057,8057
+"1152","Region VIII - Eastern Visayas","Samar (Western Samar)","Tarangnan",189,24992,24992
+"1153","Region VIII - Eastern Visayas","Samar (Western Samar)","Villareal",286,28230,28230
+"1154","Region VIII - Eastern Visayas","Samar (Western Samar)","Paranas",57,30557,30557
+"1155","Region VIII - Eastern Visayas","Samar (Western Samar)","Zumarraga",423,16295,16295
+"1156","Region VIII - Eastern Visayas","Samar (Western Samar)","Tagapul-an",311,8473,8473
+"1157","Region VIII - Eastern Visayas","Samar (Western Samar)","San Jorge",63,17184,17184
+"1158","Region VIII - Eastern Visayas","Samar (Western Samar)","Pagsanghan",265,7945,7945
+"1159","Region VIII - Eastern Visayas","Samar (Western Samar)","Calbayog City",209,183851,183851
+"1160","Region VIII - Eastern Visayas","Samar (Western Samar)","City of Catbalogan (Capital)",585,103879,103879
+"1161","Region VIII - Eastern Visayas","Southern Leyte","Anahawan",141,8211,8211
+"1162","Region VIII - Eastern Visayas","Southern Leyte","Bontoc",264,28905,28905
+"1163","Region VIII - Eastern Visayas","Southern Leyte","Hinunangan",198,29976,29976
+"1164","Region VIII - Eastern Visayas","Southern Leyte","Hinundayan",205,12285,12285
+"1165","Region VIII - Eastern Visayas","Southern Leyte","Libagon",154,15169,15169
+"1166","Region VIII - Eastern Visayas","Southern Leyte","Liloan",477,23981,23981
+"1167","Region VIII - Eastern Visayas","Southern Leyte","Macrohon",208,26244,26244
+"1168","Region VIII - Eastern Visayas","Southern Leyte","Malitbog",295,22923,22923
+"1169","Region VIII - Eastern Visayas","Southern Leyte","Padre Burgos",432,11091,11091
+"1170","Region VIII - Eastern Visayas","Southern Leyte","Pintuyan",266,9826,9826
+"1171","Region VIII - Eastern Visayas","Southern Leyte","Saint Bernard",272,28395,28395
+"1172","Region VIII - Eastern Visayas","Southern Leyte","San Francisco",195,13402,13402
+"1173","Region VIII - Eastern Visayas","Southern Leyte","San Juan ",155,14858,14858
+"1174","Region VIII - Eastern Visayas","Southern Leyte","San Ricardo",221,10494,10494
+"1175","Region VIII - Eastern Visayas","Southern Leyte","Silago",74,12775,12775
+"1176","Region VIII - Eastern Visayas","Southern Leyte","Sogod",205,44986,44986
+"1177","Region VIII - Eastern Visayas","Southern Leyte","Tomas Oppus",296,16608,16608
+"1178","Region VIII - Eastern Visayas","Southern Leyte","Limasawa",868,6061,6061
+"1179","Region VIII - Eastern Visayas","Southern Leyte","City of Maasin (Capital)",408,85560,85560
+"1180","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Katipunan",187,45577,45577
+"1181","Region IX - Zamboanga Peninsula","Zamboanga del Norte","La Libertad",150,8406,8406
+"1182","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Labason",223,41357,41357
+"1183","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Liloy",314,39812,39812
+"1184","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Manukan",257,36526,36526
+"1185","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Mutia",153,12675,12675
+"1186","Region IX - Zamboanga Peninsula","Zamboanga del Norte","PiÐan ",121,20161,20161
+"1187","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Polanco",184,39347,39347
+"1188","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Pres. Manuel A. Roxas",164,39323,39323
+"1189","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Rizal",187,14021,14021
+"1190","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Salug",227,32204,32204
+"1191","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Sergio OsmeÐa Sr.",54,30220,30220
+"1192","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Siayan",71,34966,34966
+"1193","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Sibuco",51,34620,34620
+"1194","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Sibutad",269,17645,17645
+"1195","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Sindangan",186,99435,99435
+"1196","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Siocon",138,46907,46907
+"1197","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Sirawai",95,28799,28799
+"1198","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Tampilisan",161,24307,24307
+"1199","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Jose Dalman",147,27388,27388
+"1200","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Gutalac",71,34654,34654
+"1201","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Baliguian",51,22588,22588
+"1202","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Godod",68,17424,17424
+"1203","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Bacungan",100,26221,26221
+"1204","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Kalawit",108,23633,23633
+"1205","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Dapitan City",362,82418,82418
+"1206","Region IX - Zamboanga Peninsula","Zamboanga del Norte","Dipolog City (Capital)",1006,130759,130759
+"1207","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Aurora",317,50755,50755
+"1208","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Bayog",95,33591,33591
+"1209","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Dimataling",265,30081,30081
+"1210","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Dinas",206,35504,35504
+"1211","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Dumalinao",272,32013,32013
+"1212","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Dumingag",122,47485,47485
+"1213","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Guipos",224,20729,20729
+"1214","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Josefina",209,11799,11799
+"1215","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Kumalarang",188,28469,28469
+"1216","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Labangan",238,41790,41790
+"1217","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Lakewood",104,20374,20374
+"1218","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Lapuyan",177,27264,27264
+"1219","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Mahayag",263,46516,46516
+"1220","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Margosatubig",437,37873,37873
+"1221","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Midsalip",119,32075,32075
+"1222","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Molave",187,52006,52006
+"1223","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Pitogo",354,27057,27057
+"1224","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Ramon Magsaysay ",270,26606,26606
+"1225","Region IX - Zamboanga Peninsula","Zamboanga del Sur","San Miguel",223,19205,19205
+"1226","Region IX - Zamboanga Peninsula","Zamboanga del Sur","San Pablo",233,26106,26106
+"1227","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Sominot ",156,18537,18537
+"1228","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Tabina",351,25061,25061
+"1229","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Tambulig",256,36160,36160
+"1230","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Tigbao",153,20979,20979
+"1231","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Tukuran",275,39820,39820
+"1232","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Vincenzo A. Sagun",360,23759,23759
+"1233","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Pagadian City (Capital)",685,199060,199060
+"1234","Region IX - Zamboanga Peninsula","Zamboanga del Sur","Zamboanga City",609,861799,861799
+"1235","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Alicia",197,36013,36013
+"1236","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Buug",251,36634,36634
+"1237","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Diplahan",254,32428,32428
+"1238","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Imelda",333,28018,28018
+"1239","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Ipil (Capital)",443,74656,74656
+"1240","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Kabasalan",141,44336,44336
+"1241","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Mabuhay",445,36870,36870
+"1242","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Malangas",277,33380,33380
+"1243","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Naga",185,38547,38547
+"1244","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Olutanga",297,33671,33671
+"1245","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Payao",165,31686,31686
+"1246","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Roseller Lim",201,43646,43646
+"1247","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Siay",147,41572,41572
+"1248","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Talusan",599,29969,29969
+"1249","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Titay",143,49673,49673
+"1250","Region IX - Zamboanga Peninsula","Zamboanga Sibugay","Tungawan",89,42030,42030
+"1251","Region IX - Zamboanga Peninsula","N/A","City of Isabela (Capital of Basilan)",499,112788,112788
+"1252","Region X - Northern Mindanao","Bukidnon","Baungon",105,34336,34336
+"1253","Region X - Northern Mindanao","Bukidnon","Cabanglasan",140,33997,33997
+"1254","Region X - Northern Mindanao","Bukidnon","Damulog",124,30302,30302
+"1255","Region X - Northern Mindanao","Bukidnon","Dangcagan",370,23723,23723
+"1256","Region X - Northern Mindanao","Bukidnon","Don Carlos",313,66959,66959
+"1257","Region X - Northern Mindanao","Bukidnon","Impasug-ong",46,47859,47859
+"1258","Region X - Northern Mindanao","Bukidnon","Kadingilan",196,33778,33778
+"1259","Region X - Northern Mindanao","Bukidnon","Kalilangan",188,41601,41601
+"1260","Region X - Northern Mindanao","Bukidnon","Kibawe",130,39612,39612
+"1261","Region X - Northern Mindanao","Bukidnon","Kitaotao",64,50260,50260
+"1262","Region X - Northern Mindanao","Bukidnon","Lantapan",188,61776,61776
+"1263","Region X - Northern Mindanao","Bukidnon","Libona",116,43969,43969
+"1264","Region X - Northern Mindanao","Bukidnon","Malitbog",42,24453,24453
+"1265","Region X - Northern Mindanao","Bukidnon","Manolo Fortich",242,100210,100210
+"1266","Region X - Northern Mindanao","Bukidnon","Maramag",228,102089,102089
+"1267","Region X - Northern Mindanao","Bukidnon","Pangantucan",140,53126,53126
+"1268","Region X - Northern Mindanao","Bukidnon","Quezon",166,104116,104116
+"1269","Region X - Northern Mindanao","Bukidnon","San Fernando",80,56138,56138
+"1270","Region X - Northern Mindanao","Bukidnon","Sumilao",140,27660,27660
+"1271","Region X - Northern Mindanao","Bukidnon","Talakag",91,71644,71644
+"1272","Region X - Northern Mindanao","Bukidnon","City of Malaybalay (Capital)",195,174625,174625
+"1273","Region X - Northern Mindanao","Bukidnon","City of Valencia",312,192993,192993
+"1274","Region X - Northern Mindanao","Camiguin","Catarman",295,16798,16798
+"1275","Region X - Northern Mindanao","Camiguin","Guinsiliban",339,6281,6281
+"1276","Region X - Northern Mindanao","Camiguin","Mahinog",390,14038,14038
+"1277","Region X - Northern Mindanao","Camiguin","Mambajao (Capital)",435,38735,38735
+"1278","Region X - Northern Mindanao","Camiguin","Sagay",286,12626,12626
+"1279","Region X - Northern Mindanao","Lanao del Norte","Bacolod",382,23034,23034
+"1280","Region X - Northern Mindanao","Lanao del Norte","Baloi",913,58383,58383
+"1281","Region X - Northern Mindanao","Lanao del Norte","Baroy",458,22600,22600
+"1282","Region X - Northern Mindanao","Lanao del Norte","Kapatagan",251,62853,62853
+"1283","Region X - Northern Mindanao","Lanao del Norte","Kauswagan",324,26278,26278
+"1284","Region X - Northern Mindanao","Lanao del Norte","Kolambugan",201,27005,27005
+"1285","Region X - Northern Mindanao","Lanao del Norte","Lala",534,67727,67727
+"1286","Region X - Northern Mindanao","Lanao del Norte","Linamon",1140,20341,20341
+"1287","Region X - Northern Mindanao","Lanao del Norte","Magsaysay",216,19019,19019
+"1288","Region X - Northern Mindanao","Lanao del Norte","Maigo",301,21666,21666
+"1289","Region X - Northern Mindanao","Lanao del Norte","Matungao",457,13975,13975
+"1290","Region X - Northern Mindanao","Lanao del Norte","Munai",294,32973,32973
+"1291","Region X - Northern Mindanao","Lanao del Norte","Nunungan",99,18367,18367
+"1292","Region X - Northern Mindanao","Lanao del Norte","Pantao Ragat",745,27866,27866
+"1293","Region X - Northern Mindanao","Lanao del Norte","Pantar",437,21773,21773
+"1294","Region X - Northern Mindanao","Lanao del Norte","Poona Piagapo",435,27018,27018
+"1295","Region X - Northern Mindanao","Lanao del Norte","Salvador",378,31845,31845
+"1296","Region X - Northern Mindanao","Lanao del Norte","Sapad",219,21309,21309
+"1297","Region X - Northern Mindanao","Lanao del Norte","Sultan Naga Dimaporo ",246,56764,56764
+"1298","Region X - Northern Mindanao","Lanao del Norte","Tagoloan",190,13253,13253
+"1299","Region X - Northern Mindanao","Lanao del Norte","Tangcal",225,15181,15181
+"1300","Region X - Northern Mindanao","Lanao del Norte","Tubod (Capital)",303,47165,47165
+"1301","Region X - Northern Mindanao","Lanao del Norte","Iligan City",1130,342618,342618
+"1302","Region X - Northern Mindanao","Misamis Occidental","Aloran",265,27625,27625
+"1303","Region X - Northern Mindanao","Misamis Occidental","Baliangao",291,17092,17092
+"1304","Region X - Northern Mindanao","Misamis Occidental","Bonifacio",209,32345,32345
+"1305","Region X - Northern Mindanao","Misamis Occidental","Calamba",285,21676,21676
+"1306","Region X - Northern Mindanao","Misamis Occidental","Clarin",496,37548,37548
+"1307","Region X - Northern Mindanao","Misamis Occidental","Concepcion",206,10937,10937
+"1308","Region X - Northern Mindanao","Misamis Occidental","Don Victoriano Chiongbian ",53,10183,10183
+"1309","Region X - Northern Mindanao","Misamis Occidental","Jimenez",340,27654,27654
+"1310","Region X - Northern Mindanao","Misamis Occidental","Lopez Jaena",249,25055,25055
+"1311","Region X - Northern Mindanao","Misamis Occidental","Panaon",295,10209,10209
+"1312","Region X - Northern Mindanao","Misamis Occidental","Plaridel",506,38900,38900
+"1313","Region X - Northern Mindanao","Misamis Occidental","Sapang Dalaga",181,19983,19983
+"1314","Region X - Northern Mindanao","Misamis Occidental","Sinacaban",186,18391,18391
+"1315","Region X - Northern Mindanao","Misamis Occidental","Tudela",331,28932,28932
+"1316","Region X - Northern Mindanao","Misamis Occidental","Oroquieta City (Capital)",562,70757,70757
+"1317","Region X - Northern Mindanao","Misamis Occidental","Ozamis City",886,141828,141828
+"1318","Region X - Northern Mindanao","Misamis Occidental","Tangub City",410,63011,63011
+"1319","Region X - Northern Mindanao","Misamis Oriental ","Alubijid",294,29724,29724
+"1320","Region X - Northern Mindanao","Misamis Oriental ","Balingasag",456,67059,67059
+"1321","Region X - Northern Mindanao","Misamis Oriental ","Balingoan",191,11051,11051
+"1322","Region X - Northern Mindanao","Misamis Oriental ","Binuangan",553,7515,7515
+"1323","Region X - Northern Mindanao","Misamis Oriental ","Claveria",134,48906,48906
+"1324","Region X - Northern Mindanao","Misamis Oriental ","Gitagum",416,16373,16373
+"1325","Region X - Northern Mindanao","Misamis Oriental ","Initao",291,32370,32370
+"1326","Region X - Northern Mindanao","Misamis Oriental ","Jasaan",707,54478,54478
+"1327","Region X - Northern Mindanao","Misamis Oriental ","Kinoguitan",338,14391,14391
+"1328","Region X - Northern Mindanao","Misamis Oriental ","Lagonglong",259,21659,21659
+"1329","Region X - Northern Mindanao","Misamis Oriental ","Laguindingan",616,24405,24405
+"1330","Region X - Northern Mindanao","Misamis Oriental ","Libertad",550,12354,12354
+"1331","Region X - Northern Mindanao","Misamis Oriental ","Lugait",720,19758,19758
+"1332","Region X - Northern Mindanao","Misamis Oriental ","Magsaysay",242,34605,34605
+"1333","Region X - Northern Mindanao","Misamis Oriental ","Manticao",231,28422,28422
+"1334","Region X - Northern Mindanao","Misamis Oriental ","Medina",222,32907,32907
+"1335","Region X - Northern Mindanao","Misamis Oriental ","Naawan",240,21213,21213
+"1336","Region X - Northern Mindanao","Misamis Oriental ","Opol",320,61503,61503
+"1337","Region X - Northern Mindanao","Misamis Oriental ","Salay",440,28705,28705
+"1338","Region X - Northern Mindanao","Misamis Oriental ","Sugbongcogon",348,9226,9226
+"1339","Region X - Northern Mindanao","Misamis Oriental ","Tagoloan",1450,73150,73150
+"1340","Region X - Northern Mindanao","Misamis Oriental ","Talisayan",175,24505,24505
+"1341","Region X - Northern Mindanao","Misamis Oriental ","Villanueva",950,39378,39378
+"1342","Region X - Northern Mindanao","Misamis Oriental ","City of El Salvador",484,50204,50204
+"1343","Region X - Northern Mindanao","Misamis Oriental ","Gingoog City",245,124648,124648
+"1344","Region X - Northern Mindanao","Misamis Oriental ","Cagayan de Oro City (Capital)",1202,675950,675950
+"1345","Region XI - Davao ","Compostela Valley","Compostela",232,87474,87474
+"1346","Region XI - Davao ","Compostela Valley","Laak ",89,73874,73874
+"1347","Region XI - Davao ","Compostela Valley","Mabini (DoÐa Alicia)",99,41102,41102
+"1348","Region XI - Davao ","Compostela Valley","Maco",233,81277,81277
+"1349","Region XI - Davao ","Compostela Valley","Maragusan (San Mariano)",154,60842,60842
+"1350","Region XI - Davao ","Compostela Valley","Mawab",272,37065,37065
+"1351","Region XI - Davao ","Compostela Valley","Monkayo",144,94908,94908
+"1352","Region XI - Davao ","Compostela Valley","Montevista",165,43706,43706
+"1353","Region XI - Davao ","Compostela Valley","Nabunturan (Capital)",305,82234,82234
+"1354","Region XI - Davao ","Compostela Valley","New Bataan",86,47726,47726
+"1355","Region XI - Davao ","Compostela Valley","Pantukan",180,85899,85899
+"1356","Region XI - Davao ","Davao del Norte","Asuncion",223,59322,59322
+"1357","Region XI - Davao ","Davao del Norte","Carmen",411,74679,74679
+"1358","Region XI - Davao ","Davao del Norte","Kapalong",90,76334,76334
+"1359","Region XI - Davao ","Davao del Norte","New Corella",220,54844,54844
+"1360","Region XI - Davao ","Davao del Norte","Santo Tomas",528,118750,118750
+"1361","Region XI - Davao ","Davao del Norte","Talaingod",30,27482,27482
+"1362","Region XI - Davao ","Davao del Norte","Braulio E. Dujali",302,30104,30104
+"1363","Region XI - Davao ","Davao del Norte","San Isidro",166,26651,26651
+"1364","Region XI - Davao ","Davao del Norte","City of Panabo",735,184599,184599
+"1365","Region XI - Davao ","Davao del Norte","Island Garden City of Samal",371,104123,104123
+"1366","Region XI - Davao ","Davao del Norte","City of Tagum (Capital)",1392,259444,259444
+"1367","Region XI - Davao ","Davao del Sur","Bansalan",255,60440,60440
+"1368","Region XI - Davao ","Davao del Sur","Hagonoy",448,53309,53309
+"1369","Region XI - Davao ","Davao del Sur","Kiblawan",137,48897,48897
+"1370","Region XI - Davao ","Davao del Sur","Magsaysay",266,53876,53876
+"1371","Region XI - Davao ","Davao del Sur","Malalag",182,38731,38731
+"1372","Region XI - Davao ","Davao del Sur","Matanao",219,56755,56755
+"1373","Region XI - Davao ","Davao del Sur","Padada",307,26587,26587
+"1374","Region XI - Davao ","Davao del Sur","Santa Cruz",313,90987,90987
+"1375","Region XI - Davao ","Davao del Sur","Sulop",208,33613,33613
+"1376","Region XI - Davao ","Davao del Sur","City of Digos (Capital)",576,169393,169393
+"1377","Region XI - Davao ","Davao del Sur","Davao City",668,1632991,1632991
+"1378","Region XI - Davao ","Davao Occidental","Don Marcelino",108,44554,44554
+"1379","Region XI - Davao ","Davao Occidental","Jose Abad Santos",110,76332,76332
+"1380","Region XI - Davao ","Davao Occidental","Malita (Capital)",133,117746,117746
+"1381","Region XI - Davao ","Davao Occidental","Santa Maria",235,53671,53671
+"1382","Region XI - Davao ","Davao Occidental","Sarangani",270,24039,24039
+"1383","Region XI - Davao ","Davao Oriental","Baganga",60,56241,56241
+"1384","Region XI - Davao ","Davao Oriental","Banaybanay",101,41117,41117
+"1385","Region XI - Davao ","Davao Oriental","Boston",29,13535,13535
+"1386","Region XI - Davao ","Davao Oriental","Caraga",53,40379,40379
+"1387","Region XI - Davao ","Davao Oriental","Cateel",91,40704,40704
+"1388","Region XI - Davao ","Davao Oriental","Governor Generoso",146,55109,55109
+"1389","Region XI - Davao ","Davao Oriental","Lupon",114,65785,65785
+"1390","Region XI - Davao ","Davao Oriental","Manay",70,42690,42690
+"1391","Region XI - Davao ","Davao Oriental","San Isidro",117,36032,36032
+"1392","Region XI - Davao ","Davao Oriental","Tarragona",76,26225,26225
+"1393","Region XI - Davao ","Davao Oriental","City of Mati (Capital)",240,141141,141141
+"1394","Region XII - Soccsksargen","Cotabato (North Cotabato)","Alamada",82,64596,64596
+"1395","Region XII - Soccsksargen","Cotabato (North Cotabato)","Aleosan",175,39405,39405
+"1396","Region XII - Soccsksargen","Cotabato (North Cotabato)","Antipas",220,25304,25304
+"1397","Region XII - Soccsksargen","Cotabato (North Cotabato)","Arakan",70,48228,48228
+"1398","Region XII - Soccsksargen","Cotabato (North Cotabato)","Banisilan",151,43677,43677
+"1399","Region XII - Soccsksargen","Cotabato (North Cotabato)","Carmen",86,95921,95921
+"1400","Region XII - Soccsksargen","Cotabato (North Cotabato)","Kabacan",279,89161,89161
+"1401","Region XII - Soccsksargen","Cotabato (North Cotabato)","Libungan",255,48768,48768
+"1402","Region XII - Soccsksargen","Cotabato (North Cotabato)","Magpet",47,49201,49201
+"1403","Region XII - Soccsksargen","Cotabato (North Cotabato)","Makilala",244,83851,83851
+"1404","Region XII - Soccsksargen","Cotabato (North Cotabato)","Matalam",195,79361,79361
+"1405","Region XII - Soccsksargen","Cotabato (North Cotabato)","Midsayap",532,151684,151684
+"1406","Region XII - Soccsksargen","Cotabato (North Cotabato)","M'lang",305,95070,95070
+"1407","Region XII - Soccsksargen","Cotabato (North Cotabato)","Pigkawayan",256,66796,66796
+"1408","Region XII - Soccsksargen","Cotabato (North Cotabato)","Pikit",255,154441,154441
+"1409","Region XII - Soccsksargen","Cotabato (North Cotabato)","President Roxas",77,47575,47575
+"1410","Region XII - Soccsksargen","Cotabato (North Cotabato)","Tulunan",144,56513,56513
+"1411","Region XII - Soccsksargen","Cotabato (North Cotabato)","City of Kidapawan (Capital)",412,140195,140195
+"1412","Region XII - Soccsksargen","Cotabato (North Cotabato)","Cotabato City",1701,299438,299438
+"1413","Region XII - Soccsksargen","Sarangani","Alabel (Capital)",157,80359,80359
+"1414","Region XII - Soccsksargen","Sarangani","Glan",158,118263,118263
+"1415","Region XII - Soccsksargen","Sarangani","Kiamba",137,61058,61058
+"1416","Region XII - Soccsksargen","Sarangani","Maasim",119,59468,59468
+"1417","Region XII - Soccsksargen","Sarangani","Maitum",122,44595,44595
+"1418","Region XII - Soccsksargen","Sarangani","Malapatan",128,76914,76914
+"1419","Region XII - Soccsksargen","Sarangani","Malungon",138,103604,103604
+"1420","Region XII - Soccsksargen","South Cotabato","Banga",340,83989,83989
+"1421","Region XII - Soccsksargen","South Cotabato","Lake Sebu",102,87442,87442
+"1422","Region XII - Soccsksargen","South Cotabato","Norala",248,46642,46642
+"1423","Region XII - Soccsksargen","South Cotabato","Polomolok",445,152589,152589
+"1424","Region XII - Soccsksargen","South Cotabato","Santo NiÐo",482,40947,40947
+"1425","Region XII - Soccsksargen","South Cotabato","Surallah",284,84539,84539
+"1426","Region XII - Soccsksargen","South Cotabato","Tampakan",101,39525,39525
+"1427","Region XII - Soccsksargen","South Cotabato","Tantangan",289,43245,43245
+"1428","Region XII - Soccsksargen","South Cotabato","T'boli",102,91453,91453
+"1429","Region XII - Soccsksargen","South Cotabato","Tupi",174,69976,69976
+"1430","Region XII - Soccsksargen","South Cotabato","City of Koronadal (Capital)",623,174942,174942
+"1431","Region XII - Soccsksargen","South Cotabato","General Santos City ",1206,594446,594446
+"1432","Region XII - Soccsksargen","Sultan Kudarat","Bagumbayan",100,67061,67061
+"1433","Region XII - Soccsksargen","Sultan Kudarat","Columbio",36,33258,33258
+"1434","Region XII - Soccsksargen","Sultan Kudarat","Esperanza",168,66095,66095
+"1435","Region XII - Soccsksargen","Sultan Kudarat","Isulan (Capital)",166,90682,90682
+"1436","Region XII - Soccsksargen","Sultan Kudarat","Kalamansig",99,49059,49059
+"1437","Region XII - Soccsksargen","Sultan Kudarat","Lambayong ",356,77013,77013
+"1438","Region XII - Soccsksargen","Sultan Kudarat","Lebak",155,88868,88868
+"1439","Region XII - Soccsksargen","Sultan Kudarat","Lutayan",233,63029,63029
+"1440","Region XII - Soccsksargen","Sultan Kudarat","Palimbang",98,90424,90424
+"1441","Region XII - Soccsksargen","Sultan Kudarat","President Quirino",350,41408,41408
+"1442","Region XII - Soccsksargen","Sultan Kudarat","Sen. Ninoy Aquino",306,46882,46882
+"1443","Region XII - Soccsksargen","Sultan Kudarat","City of Tacurong",251,98316,98316
+"1444","Region XIII - Caraga","Agusan del Norte","Buenavista",130,61614,61614
+"1445","Region XIII - Caraga","Agusan del Norte","Carmen",252,20839,20839
+"1446","Region XIII - Caraga","Agusan del Norte","Jabonga",79,23184,23184
+"1447","Region XIII - Caraga","Agusan del Norte","Kitcharao",145,18659,18659
+"1448","Region XIII - Caraga","Agusan del Norte","Las Nieves",49,28414,28414
+"1449","Region XIII - Caraga","Agusan del Norte","Magallanes",474,21007,21007
+"1450","Region XIII - Caraga","Agusan del Norte","Nasipit",291,41957,41957
+"1451","Region XIII - Caraga","Agusan del Norte","Remedios T. Romualdez",191,16058,16058
+"1452","Region XIII - Caraga","Agusan del Norte","Santiago",88,24200,24200
+"1453","Region XIII - Caraga","Agusan del Norte","Tubay",299,24932,24932
+"1454","Region XIII - Caraga","Agusan del Norte","City of Cabadbaran",232,73639,73639
+"1455","Region XIII - Caraga","Agusan del Norte","Butuan City (Capital)",545,337063,337063
+"1456","Region XIII - Caraga","Agusan del Sur","Bunawan",89,45151,45151
+"1457","Region XIII - Caraga","Agusan del Sur","Esperanza",40,54801,54801
+"1458","Region XIII - Caraga","Agusan del Sur","La Paz",19,28217,28217
+"1459","Region XIII - Caraga","Agusan del Sur","Loreto",29,42501,42501
+"1460","Region XIII - Caraga","Agusan del Sur","Prosperidad (Capital)",164,82631,82631
+"1461","Region XIII - Caraga","Agusan del Sur","Rosario",121,46683,46683
+"1462","Region XIII - Caraga","Agusan del Sur","San Francisco",190,74542,74542
+"1463","Region XIII - Caraga","Agusan del Sur","San Luis",26,32109,32109
+"1464","Region XIII - Caraga","Agusan del Sur","Santa Josefa",192,26729,26729
+"1465","Region XIII - Caraga","Agusan del Sur","Sibagat",54,30442,30442
+"1466","Region XIII - Caraga","Agusan del Sur","Talacogon",95,38374,38374
+"1467","Region XIII - Caraga","Agusan del Sur","Trento",93,51565,51565
+"1468","Region XIII - Caraga","Agusan del Sur","Veruela",113,43706,43706
+"1469","Region XIII - Caraga","Agusan del Sur","City of Bayugan",204,103202,103202
+"1470","Region XIII - Caraga","Dinagat Islands","Basilisa",360,36880,36880
+"1471","Region XIII - Caraga","Dinagat Islands","Cagdianao",86,16808,16808
+"1472","Region XIII - Caraga","Dinagat Islands","Dinagat",498,10632,10632
+"1473","Region XIII - Caraga","Dinagat Islands","Libjo ",99,17760,17760
+"1474","Region XIII - Caraga","Dinagat Islands","Loreto",60,9309,9309
+"1475","Region XIII - Caraga","Dinagat Islands","San Jose (Capital)",801,27487,27487
+"1476","Region XIII - Caraga","Dinagat Islands","Tubajon",65,8276,8276
+"1477","Region XIII - Caraga","Surigao del Norte","Alegria",245,16011,16011
+"1478","Region XIII - Caraga","Surigao del Norte","Bacuag",182,14486,14486
+"1479","Region XIII - Caraga","Surigao del Norte","Burgos",209,4034,4034
+"1480","Region XIII - Caraga","Surigao del Norte","Claver",102,32773,32773
+"1481","Region XIII - Caraga","Surigao del Norte","Dapa",259,23787,23787
+"1482","Region XIII - Caraga","Surigao del Norte","Del Carmen",123,18392,18392
+"1483","Region XIII - Caraga","Surigao del Norte","General Luna",321,16771,16771
+"1484","Region XIII - Caraga","Surigao del Norte","Gigaquit",151,20864,20864
+"1485","Region XIII - Caraga","Surigao del Norte","Mainit",248,26741,26741
+"1486","Region XIII - Caraga","Surigao del Norte","Malimono",223,18054,18054
+"1487","Region XIII - Caraga","Surigao del Norte","Pilar",126,9752,9752
+"1488","Region XIII - Caraga","Surigao del Norte","Placer",429,27094,27094
+"1489","Region XIII - Caraga","Surigao del Norte","San Benito",118,5404,5404
+"1490","Region XIII - Caraga","Surigao del Norte","San Francisco",271,14552,14552
+"1491","Region XIII - Caraga","Surigao del Norte","San Isidro",174,7325,7325
+"1492","Region XIII - Caraga","Surigao del Norte","Santa Monica ",225,8808,8808
+"1493","Region XIII - Caraga","Surigao del Norte","Sison",165,13155,13155
+"1494","Region XIII - Caraga","Surigao del Norte","Socorro",169,22314,22314
+"1495","Region XIII - Caraga","Surigao del Norte","Tagana-an",227,16428,16428
+"1496","Region XIII - Caraga","Surigao del Norte","Tubod",313,14206,14206
+"1497","Region XIII - Caraga","Surigao del Norte","Surigao City (Capital)",886,154137,154137
+"1498","Region XIII - Caraga","Surigao del Sur","Barobo",211,49730,49730
+"1499","Region XIII - Caraga","Surigao del Sur","Bayabas",211,8164,8164
+"1500","Region XIII - Caraga","Surigao del Sur","Cagwait",153,20384,20384
+"1501","Region XIII - Caraga","Surigao del Sur","Cantilan",186,31492,31492
+"1502","Region XIII - Caraga","Surigao del Sur","Carmen",52,10347,10347
+"1503","Region XIII - Caraga","Surigao del Sur","Carrascal",78,22479,22479
+"1504","Region XIII - Caraga","Surigao del Sur","Cortes",122,15912,15912
+"1505","Region XIII - Caraga","Surigao del Sur","Hinatuan",114,39842,39842
+"1506","Region XIII - Caraga","Surigao del Sur","Lanuza",41,12001,12001
+"1507","Region XIII - Caraga","Surigao del Sur","Lianga",207,29493,29493
+"1508","Region XIII - Caraga","Surigao del Sur","Lingig",71,31485,31485
+"1509","Region XIII - Caraga","Surigao del Sur","Madrid",108,15223,15223
+"1510","Region XIII - Caraga","Surigao del Sur","Marihatag",61,18518,18518
+"1511","Region XIII - Caraga","Surigao del Sur","San Agustin",82,22779,22779
+"1512","Region XIII - Caraga","Surigao del Sur","San Miguel",75,39340,39340
+"1513","Region XIII - Caraga","Surigao del Sur","Tagbina",112,38833,38833
+"1514","Region XIII - Caraga","Surigao del Sur","Tago",95,35329,35329
+"1515","Region XIII - Caraga","Surigao del Sur","City of Bislig",272,94535,94535
+"1516","Region XIII - Caraga","Surigao del Sur","City of Tandag (Capital)",244,56364,56364
+"1517","Autonomous Region in Muslim Mindanao (ARMM)","N/A","Muslim Mindanao",103,3781387,3781387
+"1518","Region XIII - Caraga","Basilan","Akbar",96,17531,17531
+"1519","Region XIII - Caraga","Basilan","Al-Barka",111,20905,20905
+"1520","Region XIII - Caraga","Basilan","Hadji Mohammad Ajul",95,19307,19307
+"1521","Region XIII - Caraga","Basilan","Hadji Muhtamad",145,25085,25085
+"1522","Region XIII - Caraga","Basilan","Lantawan",61,24594,24594
+"1523","Region XIII - Caraga","Basilan","Maluso",134,40646,40646
+"1524","Region XIII - Caraga","Basilan","Sumisip",74,41730,41730
+"1525","Region XIII - Caraga","Basilan","Tabuan-Lasa",434,24188,24188
+"1526","Region XIII - Caraga","Basilan","Tipo-Tipo",88,19163,19163
+"1527","Region XIII - Caraga","Basilan","Tuburan",37,20207,20207
+"1528","Region XIII - Caraga","Basilan","Ungkaya Pukan",72,18441,18441
+"1529","Region XIII - Caraga","Basilan","City of Lamitan",211,74782,74782
+"1530","Region XIII - Caraga","Lanao del Sur","Bacolod-Kalawi ",42,20841,20841
+"1531","Region XIII - Caraga","Lanao del Sur","Balabagan",117,26819,26819
+"1532","Region XIII - Caraga","Lanao del Sur","Balindong",64,29180,29180
+"1533","Region XIII - Caraga","Lanao del Sur","Bayang",104,23965,23965
+"1534","Region XIII - Caraga","Lanao del Sur","Binidayan",116,22079,22079
+"1535","Region XIII - Caraga","Lanao del Sur","Buadiposo-Buntong",75,16130,16130
+"1536","Region XIII - Caraga","Lanao del Sur","Bubong",28,22336,22336
+"1537","Region XIII - Caraga","Lanao del Sur","Bumbaran",19,10401,10401
+"1538","Region XIII - Caraga","Lanao del Sur","Butig",58,19302,19302
+"1539","Region XIII - Caraga","Lanao del Sur","Calanogas",71,13750,13750
+"1540","Region XIII - Caraga","Lanao del Sur","Ditsaan-Ramain",42,22299,22299
+"1541","Region XIII - Caraga","Lanao del Sur","Ganassi",53,23016,23016
+"1542","Region XIII - Caraga","Lanao del Sur","Kapai",47,18894,18894
+"1543","Region XIII - Caraga","Lanao del Sur","Kapatagan",54,15521,15521
+"1544","Region XIII - Caraga","Lanao del Sur","Lumba-Bayabao",52,36151,36151
+"1545","Region XIII - Caraga","Lanao del Sur","Lumbaca-Unayan",45,7260,7260
+"1546","Region XIII - Caraga","Lanao del Sur","Lumbatan",121,19105,19105
+"1547","Region XIII - Caraga","Lanao del Sur","Lumbayanague",54,16372,16372
+"1548","Region XIII - Caraga","Lanao del Sur","Madalum",27,23127,23127
+"1549","Region XIII - Caraga","Lanao del Sur","Madamba",26,17756,17756
+"1550","Region XIII - Caraga","Lanao del Sur","Maguing",40,24531,24531
+"1551","Region XIII - Caraga","Lanao del Sur","Malabang",222,43957,43957
+"1552","Region XIII - Caraga","Lanao del Sur","Marantao",50,32974,32974
+"1553","Region XIII - Caraga","Lanao del Sur","Marogong",58,21319,21319
+"1554","Region XIII - Caraga","Lanao del Sur","Masiu",172,29176,29176
+"1555","Region XIII - Caraga","Lanao del Sur","Mulondo",35,16067,16067
+"1556","Region XIII - Caraga","Lanao del Sur","Pagayawan ",60,13139,13139
+"1557","Region XIII - Caraga","Lanao del Sur","Piagapo",75,25440,25440
+"1558","Region XIII - Caraga","Lanao del Sur","Picong",60,16615,16615
+"1559","Region XIII - Caraga","Lanao del Sur","Poona Bayabao",79,22227,22227
+"1560","Region XIII - Caraga","Lanao del Sur","Pualas",53,12866,12866
+"1561","Region XIII - Caraga","Lanao del Sur","Saguiaran",135,24619,24619
+"1562","Region XIII - Caraga","Lanao del Sur","Sultan Dumalondong",220,11298,11298
+"1563","Region XIII - Caraga","Lanao del Sur","Tagoloan II",23,11169,11169
+"1564","Region XIII - Caraga","Lanao del Sur","Tamparan",50,25874,25874
+"1565","Region XIII - Caraga","Lanao del Sur","Taraka",54,23644,23644
+"1566","Region XIII - Caraga","Lanao del Sur","Tubaran",34,14749,14749
+"1567","Region XIII - Caraga","Lanao del Sur","Tugaya",67,23814,23814
+"1568","Region XIII - Caraga","Lanao del Sur","Wao",95,45862,45862
+"1569","Region XIII - Caraga","Lanao del Sur","Marawi City (Capital)",2305,201785,201785
+"1570","Region XIII - Caraga","Maguindanao","Ampatuan",97,24801,24801
+"1571","Region XIII - Caraga","Maguindanao","Barira",76,30004,30004
+"1572","Region XIII - Caraga","Maguindanao","Buldon",82,35282,35282
+"1573","Region XIII - Caraga","Maguindanao","Buluan",71,50008,50008
+"1574","Region XIII - Caraga","Maguindanao","Datu Abdullah Sangki",109,23878,23878
+"1575","Region XIII - Caraga","Maguindanao","Datu Anggal Midtimbang",293,25016,25016
+"1576","Region XIII - Caraga","Maguindanao","Datu Blah T. Sinsuat",170,25024,25024
+"1577","Region XIII - Caraga","Maguindanao","Datu Hoffer Ampatuan",129,25012,25012
+"1578","Region XIII - Caraga","Maguindanao","Datu Odin Sinsuat ",215,99210,99210
+"1579","Region XIII - Caraga","Maguindanao","Datu Paglas",105,28387,28387
+"1580","Region XIII - Caraga","Maguindanao","Datu Piang",212,25600,25600
+"1581","Region XIII - Caraga","Maguindanao","Datu Salibo",183,14947,14947
+"1582","Region XIII - Caraga","Maguindanao","Datu Saudi-Ampatuan",439,26427,26427
+"1583","Region XIII - Caraga","Maguindanao","Datu Unsay",124,11813,11813
+"1584","Region XIII - Caraga","Maguindanao","Gen. S. K. Pendatun",148,28103,28103
+"1585","Region XIII - Caraga","Maguindanao","Guindulungan",152,19911,19911
+"1586","Region XIII - Caraga","Maguindanao","Kabuntalan ",47,17276,17276
+"1587","Region XIII - Caraga","Maguindanao","Mamasapano",291,24800,24800
+"1588","Region XIII - Caraga","Maguindanao","Mangudadatu",255,25046,25046
+"1589","Region XIII - Caraga","Maguindanao","Matanog",203,29770,29770
+"1590","Region XIII - Caraga","Maguindanao","Northern Kabuntalan",236,25232,25232
+"1591","Region XIII - Caraga","Maguindanao","Pagagawan",76,34820,34820
+"1592","Region XIII - Caraga","Maguindanao","Pagalungan",44,39653,39653
+"1593","Region XIII - Caraga","Maguindanao","Paglat",90,15920,15920
+"1594","Region XIII - Caraga","Maguindanao","Pandag",294,25057,25057
+"1595","Region XIII - Caraga","Maguindanao","Parang",105,89194,89194
+"1596","Region XIII - Caraga","Maguindanao","Rajah Buayan",329,23652,23652
+"1597","Region XIII - Caraga","Maguindanao","Shariff Aguak (Capital)",191,31692,31692
+"1598","Region XIII - Caraga","Maguindanao","Shariff Saydona Mustapha",196,19855,19855
+"1599","Region XIII - Caraga","Maguindanao","South Upi",126,40178,40178
+"1600","Region XIII - Caraga","Maguindanao","Sultan Kudarat ",134,95201,95201
+"1601","Region XIII - Caraga","Maguindanao","Sultan Mastura",92,22261,22261
+"1602","Region XIII - Caraga","Maguindanao","Sultan sa Barongis ",77,22425,22425
+"1603","Region XIII - Caraga","Maguindanao","Talayan",209,30032,30032
+"1604","Region XIII - Caraga","Maguindanao","Talitay",236,14863,14863
+"1605","Region XIII - Caraga","Maguindanao","Upi",72,53583,53583
+"1606","Region XIII - Caraga","Sulu","Hadji Panglima Tahil",94,6375,6375
+"1607","Region XIII - Caraga","Sulu","Indanan",794,80883,80883
+"1608","Region XIII - Caraga","Sulu","Jolo (Capital)",993,125564,125564
+"1609","Region XIII - Caraga","Sulu","Kalingalan Caluang",146,31567,31567
+"1610","Region XIII - Caraga","Sulu","Lugus",165,21897,21897
+"1611","Region XIII - Caraga","Sulu","Luuk",103,32162,32162
+"1612","Region XIII - Caraga","Sulu","Maimbung",489,37914,37914
+"1613","Region XIII - Caraga","Sulu","Old Panamao",154,40998,40998
+"1614","Region XIII - Caraga","Sulu","Omar",124,25116,25116
+"1615","Region XIII - Caraga","Sulu","Pandami",151,25885,25885
+"1616","Region XIII - Caraga","Sulu","Patikul",143,62287,62287
+"1617","Region XIII - Caraga","Sulu","Panglima Estino ",230,28817,28817
+"1618","Region XIII - Caraga","Sulu","Pangutaran",50,30613,30613
+"1619","Region XIII - Caraga","Sulu","Parang",241,62172,62172
+"1620","Region XIII - Caraga","Sulu","Pata",113,22163,22163
+"1621","Region XIII - Caraga","Sulu","Siasi",220,67705,67705
+"1622","Region XIII - Caraga","Sulu","Talipao",161,80255,80255
+"1623","Region XIII - Caraga","Sulu","Tapul",204,18197,18197
+"1624","Region XIII - Caraga","Sulu","Tongkil",69,24161,24161
+"1625","Region XIII - Caraga","Tawi-Tawi","Bongao (Capital)",275,100527,100527
+"1626","Region XIII - Caraga","Tawi-Tawi","Languyan",58,33494,33494
+"1627","Region XIII - Caraga","Tawi-Tawi","Mapun ",147,26597,26597
+"1628","Region XIII - Caraga","Tawi-Tawi","Panglima Sugala ",106,44184,44184
+"1629","Region XIII - Caraga","Tawi-Tawi","Sapa-sapa",131,30917,30917
+"1630","Region XIII - Caraga","Tawi-Tawi","Sibutu",537,30387,30387
+"1631","Region XIII - Caraga","Tawi-Tawi","Simunul",187,31223,31223
+"1632","Region XIII - Caraga","Tawi-Tawi","Sitangkai",45,33334,33334
+"1633","Region XIII - Caraga","Tawi-Tawi","South Ubian",95,25935,25935
+"1634","Region XIII - Caraga","Tawi-Tawi","Tandubas",53,29390,29390
+"1635","Region XIII - Caraga","Tawi-Tawi","Turtle Islands",76,4727,4727
