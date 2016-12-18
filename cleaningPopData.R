@@ -84,18 +84,25 @@ detach(population)
 # this was saved in regionalPop.csv
 
 regionalPops = read.csv("datasets/population/regionalPops.csv")
+regionalPops = regionalPops[,2:3]
 
 regpop = rep(0,length(updated_df[,1]))
 
-# saveRegPop = function(j) {
-#   region_indices = which(updated_df$region==regionalPops[j,2])
-#   regpop[region_indices] = regionalPops[j,3]
-# }
 
-for (j in 1:length(regionalPops)) {
-  region_indices = which(updated_df$region==regionalPops[j,2])
-  regpop[region_indices] = regionalPops[j,3]
+saveRegPop = function(j) {
+  region_indices = which(updated_df$region==regionalPops[j,1])
+  regpop[region_indices] = rep(regionalPops[j,2], length(region_indices))
 }
+
+
+regpop = sapply(1:length(regionalPops[,1]), saveRegPop)
+regpop = unlist(regpop)
+
+
+updated_df = cbind(updated_df, regpop)
+
+
+
 
 
 ### PART 4: SAVING CSV
