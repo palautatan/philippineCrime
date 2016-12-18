@@ -18,9 +18,10 @@ sopas = BeautifulSoup(webpage, "html.parser")
 
 
 ## PARSING HTML
-# <p class="TweetTextSize  js-tweet-text tweet-text" lang="en" data-aria-label-part="0">
-print(sopas.title.text)
-print(sopas.text)
-print(sopas.findAll("p"))
+print(sopas.findAll("div",{"class", "js-tweet-text-container"}))
 
-print(sopas.find("TweetTextSize"))
+i=1
+for tweets in sopas.findAll("div",{"class", "js-tweet-text-container"}):
+    print(i)
+    print(tweets.find("p").text)
+    i = i+1
