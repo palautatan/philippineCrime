@@ -85,17 +85,18 @@ detach(population)
 
 regionalPops = read.csv("datasets/population/regionalPops.csv")
 regionalPops = regionalPops[,2:3]
+regionalPops[,1] = factor(regionalPops[,1], levels = unique(updated_df$region))
+
+# function to save vectors of the right lengths in order
+saveRegPop = function(j) {
+  region_indices = which(updated_df$region==levels(regionalPops[,1])[j])
+  create_vector = rep(regionalPops[j,2], length(region_indices))
+}
+updated_df$region[region_indices]
+
 
 regpop = rep(0,length(updated_df[,1]))
-
-
-saveRegPop = function(j) {
-  region_indices = which(updated_df$region==regionalPops[j,1])
-  regpop[region_indices] = rep(regionalPops[j,2], length(region_indices))
-}
-
-
-regpop = sapply(1:length(regionalPops[,1]), saveRegPop)
+regpop = lapply(1:length(regionalPops[,1]), saveRegPop)
 regpop = unlist(regpop)
 
 
