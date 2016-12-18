@@ -17,7 +17,8 @@ This comparison will hopefully lead to more interesting discoveries, given that 
 # Scripts
 plottingPhilippines.R: Using gadm to visualize information on the Philippines map using base R plot()
 
-cleaningPopData.R: History of what I did to make sure my .csv was filled out properly (I reformatted the .xlsx by hand)
-understandingPopData.R: Exploring the population.csv
+cleaningPopData.R: Cleaning data in three steps and saving results to cleanPop.csv
+cleaningPopDataRegional.R: Calculating regional pop totals based on city pop totals
+understandingPopData.R: Exploring cleanPop.csv
 
-understandingCrimeData.R: Explorting the crime data .csv's
+understandingCrimeData.R: Exploring the crime data .csv's
